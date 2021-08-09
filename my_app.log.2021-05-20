@@ -1,0 +1,1889 @@
+2021-05-20 11:22:42,747 - toto - DEBUG - Outside of methods
+2021-05-20 11:22:42,747 - toto - DEBUG - Insode run
+2021-05-20 12:18:24,565 - toto - DEBUG - Outside of methods
+2021-05-20 12:18:42,670 - toto - DEBUG - Outside of methods
+2021-05-20 12:19:10,442 - toto - DEBUG - Outside of methods
+2021-05-20 12:21:15,166 - toto - DEBUG - Outside of methods
+2021-05-20 12:22:02,691 - toto - DEBUG - Outside of methods
+2021-05-20 12:22:02,907 - toto - DEBUG - {}
+2021-05-20 12:22:13,872 - toto - DEBUG - Outside of methods
+2021-05-20 12:22:14,114 - toto - DEBUG - {}
+2021-05-20 12:23:22,420 - toto - DEBUG - Outside of methods
+2021-05-20 12:24:17,369 - toto - DEBUG - Outside of methods
+2021-05-20 12:24:38,554 - toto - DEBUG - Outside of methods
+2021-05-20 12:26:20,720 - toto - DEBUG - Outside of methods
+2021-05-20 12:26:20,937 - toto - DEBUG - {}
+2021-05-20 12:27:28,051 - toto - DEBUG - Outside of methods
+2021-05-20 12:27:28,286 - toto - DEBUG - {}
+2021-05-20 12:27:33,421 - toto - DEBUG - {}
+2021-05-20 12:27:56,279 - toto - DEBUG - Outside of methods
+2021-05-20 12:27:56,470 - toto - DEBUG - {}
+2021-05-20 12:28:42,274 - toto - DEBUG - Outside of methods
+2021-05-20 12:28:42,464 - toto - DEBUG - No availability
+2021-05-20 12:28:47,610 - toto - DEBUG - No availability
+2021-05-20 12:34:13,457 - toto - DEBUG - Outside of methods
+2021-05-20 12:34:13,685 - toto - DEBUG - No availability
+2021-05-20 12:34:18,839 - toto - DEBUG - No availability
+2021-05-20 12:34:23,993 - toto - DEBUG - No availability
+2021-05-20 12:34:29,140 - toto - DEBUG - No availability
+2021-05-20 12:34:34,323 - toto - DEBUG - No availability
+2021-05-20 12:34:39,517 - toto - DEBUG - No availability
+2021-05-20 12:34:44,733 - toto - DEBUG - No availability
+2021-05-20 12:34:50,026 - toto - DEBUG - No availability
+2021-05-20 12:34:55,360 - toto - DEBUG - No availability
+2021-05-20 12:35:00,673 - toto - DEBUG - No availability
+2021-05-20 12:35:05,880 - toto - DEBUG - No availability
+2021-05-20 12:35:11,077 - toto - DEBUG - No availability
+2021-05-20 12:35:16,255 - toto - DEBUG - No availability
+2021-05-20 12:35:21,454 - toto - DEBUG - No availability
+2021-05-20 12:35:26,608 - toto - DEBUG - No availability
+2021-05-20 12:35:31,779 - toto - DEBUG - No availability
+2021-05-20 12:35:36,988 - toto - DEBUG - No availability
+2021-05-20 12:35:42,160 - toto - DEBUG - No availability
+2021-05-20 12:35:47,391 - toto - DEBUG - No availability
+2021-05-20 12:35:52,592 - toto - DEBUG - No availability
+2021-05-20 12:35:57,821 - toto - DEBUG - No availability
+2021-05-20 12:36:03,050 - toto - DEBUG - No availability
+2021-05-20 12:36:08,340 - toto - DEBUG - No availability
+2021-05-20 12:36:13,702 - toto - DEBUG - No availability
+2021-05-20 12:36:19,036 - toto - DEBUG - No availability
+2021-05-20 12:36:24,311 - toto - DEBUG - No availability
+2021-05-20 12:36:29,707 - toto - DEBUG - No availability
+2021-05-20 12:36:35,097 - toto - DEBUG - No availability
+2021-05-20 12:36:40,468 - toto - DEBUG - No availability
+2021-05-20 12:36:45,778 - toto - DEBUG - No availability
+2021-05-20 12:36:51,086 - toto - DEBUG - No availability
+2021-05-20 12:36:56,455 - toto - DEBUG - No availability
+2021-05-20 12:37:01,867 - toto - DEBUG - No availability
+2021-05-20 12:37:07,271 - toto - DEBUG - No availability
+2021-05-20 12:37:12,762 - toto - DEBUG - No availability
+2021-05-20 12:37:18,200 - toto - DEBUG - No availability
+2021-05-20 12:37:23,658 - toto - DEBUG - No availability
+2021-05-20 12:37:29,069 - toto - DEBUG - No availability
+2021-05-20 12:37:34,532 - toto - DEBUG - No availability
+2021-05-20 12:37:39,809 - toto - DEBUG - No availability
+2021-05-20 12:37:45,271 - toto - DEBUG - No availability
+2021-05-20 12:37:50,707 - toto - DEBUG - No availability
+2021-05-20 12:37:56,169 - toto - DEBUG - No availability
+2021-05-20 12:38:01,484 - toto - DEBUG - No availability
+2021-05-20 12:38:06,862 - toto - DEBUG - No availability
+2021-05-20 12:38:12,286 - toto - DEBUG - No availability
+2021-05-20 12:38:17,586 - toto - DEBUG - No availability
+2021-05-20 12:38:22,887 - toto - DEBUG - No availability
+2021-05-20 12:38:28,275 - toto - DEBUG - No availability
+2021-05-20 12:38:33,727 - toto - DEBUG - No availability
+2021-05-20 12:38:39,020 - toto - DEBUG - No availability
+2021-05-20 12:38:44,379 - toto - DEBUG - No availability
+2021-05-20 12:38:49,856 - toto - DEBUG - No availability
+2021-05-20 12:38:55,280 - toto - DEBUG - No availability
+2021-05-20 12:39:00,645 - toto - DEBUG - No availability
+2021-05-20 12:39:05,951 - toto - DEBUG - No availability
+2021-05-20 12:39:11,353 - toto - DEBUG - No availability
+2021-05-20 12:39:16,691 - toto - DEBUG - No availability
+2021-05-20 12:39:21,992 - toto - DEBUG - No availability
+2021-05-20 12:39:27,346 - toto - DEBUG - No availability
+2021-05-20 12:39:32,718 - toto - DEBUG - No availability
+2021-05-20 12:39:38,062 - toto - DEBUG - No availability
+2021-05-20 12:39:43,462 - toto - DEBUG - No availability
+2021-05-20 12:39:48,764 - toto - DEBUG - No availability
+2021-05-20 12:39:54,089 - toto - DEBUG - No availability
+2021-05-20 12:39:59,509 - toto - DEBUG - No availability
+2021-05-20 12:40:04,931 - toto - DEBUG - No availability
+2021-05-20 12:40:10,353 - toto - DEBUG - No availability
+2021-05-20 12:40:15,739 - toto - DEBUG - No availability
+2021-05-20 12:40:21,128 - toto - DEBUG - No availability
+2021-05-20 12:40:26,547 - toto - DEBUG - No availability
+2021-05-20 12:40:31,890 - toto - DEBUG - No availability
+2021-05-20 12:40:37,306 - toto - DEBUG - No availability
+2021-05-20 12:40:42,765 - toto - DEBUG - No availability
+2021-05-20 12:40:48,057 - toto - DEBUG - No availability
+2021-05-20 12:40:53,509 - toto - DEBUG - No availability
+2021-05-20 12:40:58,842 - toto - DEBUG - No availability
+2021-05-20 12:41:04,124 - toto - DEBUG - No availability
+2021-05-20 12:41:09,413 - toto - DEBUG - No availability
+2021-05-20 12:41:14,843 - toto - DEBUG - No availability
+2021-05-20 12:41:20,165 - toto - DEBUG - No availability
+2021-05-20 12:41:25,473 - toto - DEBUG - No availability
+2021-05-20 12:41:30,817 - toto - DEBUG - No availability
+2021-05-20 12:41:36,119 - toto - DEBUG - No availability
+2021-05-20 12:41:41,404 - toto - DEBUG - No availability
+2021-05-20 12:41:46,711 - toto - DEBUG - No availability
+2021-05-20 12:41:52,000 - toto - DEBUG - No availability
+2021-05-20 12:41:57,305 - toto - DEBUG - No availability
+2021-05-20 12:42:02,597 - toto - DEBUG - No availability
+2021-05-20 12:42:07,891 - toto - DEBUG - No availability
+2021-05-20 12:42:13,290 - toto - DEBUG - No availability
+2021-05-20 12:42:18,652 - toto - DEBUG - No availability
+2021-05-20 12:42:24,028 - toto - DEBUG - No availability
+2021-05-20 12:42:29,337 - toto - DEBUG - No availability
+2021-05-20 12:42:34,638 - toto - DEBUG - No availability
+2021-05-20 12:42:39,932 - toto - DEBUG - No availability
+2021-05-20 12:42:45,339 - toto - DEBUG - No availability
+2021-05-20 12:42:50,702 - toto - DEBUG - No availability
+2021-05-20 12:42:56,020 - toto - DEBUG - No availability
+2021-05-20 12:43:01,341 - toto - DEBUG - No availability
+2021-05-20 12:43:06,634 - toto - DEBUG - No availability
+2021-05-20 12:43:11,931 - toto - DEBUG - No availability
+2021-05-20 12:43:17,277 - toto - DEBUG - No availability
+2021-05-20 12:43:22,562 - toto - DEBUG - No availability
+2021-05-20 12:43:27,831 - toto - DEBUG - No availability
+2021-05-20 12:43:33,097 - toto - DEBUG - No availability
+2021-05-20 12:43:38,356 - toto - DEBUG - No availability
+2021-05-20 12:43:43,681 - toto - DEBUG - No availability
+2021-05-20 12:43:48,962 - toto - DEBUG - No availability
+2021-05-20 12:43:54,250 - toto - DEBUG - No availability
+2021-05-20 12:43:59,489 - toto - DEBUG - No availability
+2021-05-20 12:44:04,662 - toto - DEBUG - No availability
+2021-05-20 12:44:09,888 - toto - DEBUG - No availability
+2021-05-20 12:44:15,023 - toto - DEBUG - No availability
+2021-05-20 12:44:20,156 - toto - DEBUG - No availability
+2021-05-20 12:44:25,301 - toto - DEBUG - No availability
+2021-05-20 12:44:30,425 - toto - DEBUG - No availability
+2021-05-20 12:44:35,584 - toto - DEBUG - No availability
+2021-05-20 12:44:40,752 - toto - DEBUG - No availability
+2021-05-20 12:44:45,992 - toto - DEBUG - No availability
+2021-05-20 12:44:51,227 - toto - DEBUG - No availability
+2021-05-20 12:44:56,374 - toto - DEBUG - No availability
+2021-05-20 12:45:01,549 - toto - DEBUG - No availability
+2021-05-20 12:45:06,687 - toto - DEBUG - No availability
+2021-05-20 12:45:11,838 - toto - DEBUG - No availability
+2021-05-20 12:45:16,974 - toto - DEBUG - No availability
+2021-05-20 12:45:22,139 - toto - DEBUG - No availability
+2021-05-20 12:45:27,317 - toto - DEBUG - No availability
+2021-05-20 12:45:32,517 - toto - DEBUG - No availability
+2021-05-20 12:45:37,700 - toto - DEBUG - No availability
+2021-05-20 12:45:42,863 - toto - DEBUG - No availability
+2021-05-20 12:45:48,011 - toto - DEBUG - No availability
+2021-05-20 12:45:53,159 - toto - DEBUG - No availability
+2021-05-20 12:45:58,300 - toto - DEBUG - No availability
+2021-05-20 12:46:03,551 - toto - DEBUG - No availability
+2021-05-20 12:46:08,693 - toto - DEBUG - No availability
+2021-05-20 12:46:13,863 - toto - DEBUG - No availability
+2021-05-20 12:46:19,009 - toto - DEBUG - No availability
+2021-05-20 12:46:24,180 - toto - DEBUG - No availability
+2021-05-20 12:46:29,412 - toto - DEBUG - No availability
+2021-05-20 12:46:34,641 - toto - DEBUG - No availability
+2021-05-20 12:46:39,782 - toto - DEBUG - No availability
+2021-05-20 12:46:44,922 - toto - DEBUG - No availability
+2021-05-20 12:46:50,089 - toto - DEBUG - No availability
+2021-05-20 12:46:55,235 - toto - DEBUG - No availability
+2021-05-20 12:47:00,374 - toto - DEBUG - No availability
+2021-05-20 12:47:05,516 - toto - DEBUG - No availability
+2021-05-20 12:47:10,650 - toto - DEBUG - No availability
+2021-05-20 12:47:15,790 - toto - DEBUG - No availability
+2021-05-20 12:47:21,029 - toto - DEBUG - No availability
+2021-05-20 12:47:26,287 - toto - DEBUG - No availability
+2021-05-20 12:47:31,465 - toto - DEBUG - No availability
+2021-05-20 12:47:36,653 - toto - DEBUG - No availability
+2021-05-20 12:47:41,843 - toto - DEBUG - No availability
+2021-05-20 12:47:47,013 - toto - DEBUG - No availability
+2021-05-20 12:47:52,249 - toto - DEBUG - No availability
+2021-05-20 12:47:57,414 - toto - DEBUG - No availability
+2021-05-20 12:48:02,628 - toto - DEBUG - No availability
+2021-05-20 12:48:07,810 - toto - DEBUG - No availability
+2021-05-20 12:48:12,987 - toto - DEBUG - No availability
+2021-05-20 12:48:18,164 - toto - DEBUG - No availability
+2021-05-20 12:48:23,303 - toto - DEBUG - No availability
+2021-05-20 12:48:28,431 - toto - DEBUG - No availability
+2021-05-20 12:48:33,576 - toto - DEBUG - No availability
+2021-05-20 12:48:38,726 - toto - DEBUG - No availability
+2021-05-20 12:48:43,861 - toto - DEBUG - No availability
+2021-05-20 12:48:49,000 - toto - DEBUG - No availability
+2021-05-20 12:48:54,183 - toto - DEBUG - No availability
+2021-05-20 12:48:59,336 - toto - DEBUG - No availability
+2021-05-20 12:49:04,477 - toto - DEBUG - No availability
+2021-05-20 12:49:09,631 - toto - DEBUG - No availability
+2021-05-20 12:49:14,766 - toto - DEBUG - No availability
+2021-05-20 12:49:19,926 - toto - DEBUG - No availability
+2021-05-20 12:49:25,052 - toto - DEBUG - No availability
+2021-05-20 12:49:30,261 - toto - DEBUG - No availability
+2021-05-20 12:49:35,397 - toto - DEBUG - No availability
+2021-05-20 12:49:40,537 - toto - DEBUG - No availability
+2021-05-20 12:49:45,689 - toto - DEBUG - No availability
+2021-05-20 12:49:50,825 - toto - DEBUG - No availability
+2021-05-20 12:49:55,954 - toto - DEBUG - No availability
+2021-05-20 12:50:01,102 - toto - DEBUG - No availability
+2021-05-20 12:50:06,302 - toto - DEBUG - No availability
+2021-05-20 12:50:11,500 - toto - DEBUG - No availability
+2021-05-20 12:50:16,696 - toto - DEBUG - No availability
+2021-05-20 12:50:21,860 - toto - DEBUG - No availability
+2021-05-20 12:50:27,014 - toto - DEBUG - No availability
+2021-05-20 12:50:32,191 - toto - DEBUG - No availability
+2021-05-20 12:50:37,419 - toto - DEBUG - No availability
+2021-05-20 12:50:42,638 - toto - DEBUG - No availability
+2021-05-20 12:50:47,850 - toto - DEBUG - No availability
+2021-05-20 12:50:53,038 - toto - DEBUG - No availability
+2021-05-20 12:50:58,243 - toto - DEBUG - No availability
+2021-05-20 12:51:03,424 - toto - DEBUG - No availability
+2021-05-20 12:51:08,602 - toto - DEBUG - No availability
+2021-05-20 12:51:13,792 - toto - DEBUG - No availability
+2021-05-20 12:51:18,958 - toto - DEBUG - No availability
+2021-05-20 12:51:24,146 - toto - DEBUG - No availability
+2021-05-20 12:51:29,345 - toto - DEBUG - No availability
+2021-05-20 12:51:34,508 - toto - DEBUG - No availability
+2021-05-20 12:51:39,799 - toto - DEBUG - No availability
+2021-05-20 12:51:45,004 - toto - DEBUG - No availability
+2021-05-20 12:51:50,204 - toto - DEBUG - No availability
+2021-05-20 12:51:55,449 - toto - DEBUG - No availability
+2021-05-20 12:52:00,665 - toto - DEBUG - No availability
+2021-05-20 12:52:05,851 - toto - DEBUG - No availability
+2021-05-20 12:52:11,039 - toto - DEBUG - No availability
+2021-05-20 12:52:16,244 - toto - DEBUG - No availability
+2021-05-20 12:52:21,411 - toto - DEBUG - No availability
+2021-05-20 12:52:26,592 - toto - DEBUG - No availability
+2021-05-20 12:52:31,788 - toto - DEBUG - No availability
+2021-05-20 12:52:36,994 - toto - DEBUG - No availability
+2021-05-20 12:52:42,167 - toto - DEBUG - No availability
+2021-05-20 12:52:47,369 - toto - DEBUG - No availability
+2021-05-20 12:52:52,559 - toto - DEBUG - No availability
+2021-05-20 12:52:57,723 - toto - DEBUG - No availability
+2021-05-20 12:53:02,883 - toto - DEBUG - No availability
+2021-05-20 12:53:08,061 - toto - DEBUG - No availability
+2021-05-20 12:53:13,254 - toto - DEBUG - No availability
+2021-05-20 12:53:18,514 - toto - DEBUG - No availability
+2021-05-20 12:53:23,693 - toto - DEBUG - No availability
+2021-05-20 12:53:28,856 - toto - DEBUG - No availability
+2021-05-20 12:53:34,026 - toto - DEBUG - No availability
+2021-05-20 12:53:39,236 - toto - DEBUG - No availability
+2021-05-20 12:53:44,419 - toto - DEBUG - No availability
+2021-05-20 12:53:49,668 - toto - DEBUG - No availability
+2021-05-20 12:53:54,879 - toto - DEBUG - No availability
+2021-05-20 12:54:00,050 - toto - DEBUG - No availability
+2021-05-20 12:54:05,252 - toto - DEBUG - No availability
+2021-05-20 12:54:10,466 - toto - DEBUG - No availability
+2021-05-20 12:54:15,672 - toto - DEBUG - No availability
+2021-05-20 12:54:20,847 - toto - DEBUG - No availability
+2021-05-20 12:54:26,021 - toto - DEBUG - No availability
+2021-05-20 12:54:31,214 - toto - DEBUG - No availability
+2021-05-20 12:54:36,413 - toto - DEBUG - No availability
+2021-05-20 12:54:41,577 - toto - DEBUG - No availability
+2021-05-20 12:54:46,767 - toto - DEBUG - No availability
+2021-05-20 12:54:51,984 - toto - DEBUG - No availability
+2021-05-20 12:54:57,270 - toto - DEBUG - No availability
+2021-05-20 12:55:02,500 - toto - DEBUG - No availability
+2021-05-20 12:55:07,690 - toto - DEBUG - No availability
+2021-05-20 12:55:13,524 - toto - DEBUG - No availability
+2021-05-20 12:55:18,745 - toto - DEBUG - No availability
+2021-05-20 12:55:24,205 - toto - DEBUG - No availability
+2021-05-20 12:55:29,428 - toto - DEBUG - No availability
+2021-05-20 12:55:34,623 - toto - DEBUG - No availability
+2021-05-20 12:55:39,808 - toto - DEBUG - No availability
+2021-05-20 12:55:44,972 - toto - DEBUG - No availability
+2021-05-20 12:55:50,153 - toto - DEBUG - No availability
+2021-05-20 12:55:55,661 - toto - DEBUG - No availability
+2021-05-20 12:56:00,891 - toto - DEBUG - No availability
+2021-05-20 12:56:06,099 - toto - DEBUG - No availability
+2021-05-20 12:56:11,324 - toto - DEBUG - No availability
+2021-05-20 12:56:16,591 - toto - DEBUG - No availability
+2021-05-20 12:56:21,785 - toto - DEBUG - No availability
+2021-05-20 12:56:26,996 - toto - DEBUG - No availability
+2021-05-20 12:56:32,173 - toto - DEBUG - No availability
+2021-05-20 12:56:37,333 - toto - DEBUG - No availability
+2021-05-20 12:56:42,529 - toto - DEBUG - No availability
+2021-05-20 12:56:47,722 - toto - DEBUG - No availability
+2021-05-20 12:56:52,929 - toto - DEBUG - No availability
+2021-05-20 12:56:58,194 - toto - DEBUG - No availability
+2021-05-20 12:57:03,361 - toto - DEBUG - No availability
+2021-05-20 12:57:08,552 - toto - DEBUG - No availability
+2021-05-20 12:57:13,756 - toto - DEBUG - No availability
+2021-05-20 12:57:18,991 - toto - DEBUG - No availability
+2021-05-20 12:57:24,180 - toto - DEBUG - No availability
+2021-05-20 12:57:29,361 - toto - DEBUG - No availability
+2021-05-20 12:57:34,666 - toto - DEBUG - No availability
+2021-05-20 12:57:39,832 - toto - DEBUG - No availability
+2021-05-20 12:57:45,022 - toto - DEBUG - No availability
+2021-05-20 12:57:50,252 - toto - DEBUG - No availability
+2021-05-20 12:57:55,434 - toto - DEBUG - No availability
+2021-05-20 12:58:00,622 - toto - DEBUG - No availability
+2021-05-20 12:58:05,823 - toto - DEBUG - No availability
+2021-05-20 12:58:11,019 - toto - DEBUG - No availability
+2021-05-20 12:58:16,227 - toto - DEBUG - No availability
+2021-05-20 12:58:21,413 - toto - DEBUG - No availability
+2021-05-20 12:58:26,579 - toto - DEBUG - No availability
+2021-05-20 12:58:31,779 - toto - DEBUG - No availability
+2021-05-20 12:58:36,948 - toto - DEBUG - No availability
+2021-05-20 12:58:42,124 - toto - DEBUG - No availability
+2021-05-20 12:58:47,315 - toto - DEBUG - No availability
+2021-05-20 12:58:52,489 - toto - DEBUG - No availability
+2021-05-20 12:58:57,687 - toto - DEBUG - No availability
+2021-05-20 12:59:02,861 - toto - DEBUG - No availability
+2021-05-20 12:59:08,072 - toto - DEBUG - No availability
+2021-05-20 12:59:13,245 - toto - DEBUG - No availability
+2021-05-20 12:59:18,419 - toto - DEBUG - No availability
+2021-05-20 12:59:23,584 - toto - DEBUG - No availability
+2021-05-20 12:59:28,767 - toto - DEBUG - No availability
+2021-05-20 12:59:33,969 - toto - DEBUG - No availability
+2021-05-20 12:59:39,156 - toto - DEBUG - No availability
+2021-05-20 12:59:44,356 - toto - DEBUG - No availability
+2021-05-20 12:59:49,542 - toto - DEBUG - No availability
+2021-05-20 12:59:54,727 - toto - DEBUG - No availability
+2021-05-20 12:59:59,907 - toto - DEBUG - No availability
+2021-05-20 13:00:05,155 - toto - DEBUG - No availability
+2021-05-20 13:00:10,338 - toto - DEBUG - No availability
+2021-05-20 13:00:15,537 - toto - DEBUG - No availability
+2021-05-20 13:00:20,737 - toto - DEBUG - No availability
+2021-05-20 13:00:25,950 - toto - DEBUG - No availability
+2021-05-20 13:00:31,157 - toto - DEBUG - No availability
+2021-05-20 13:00:36,336 - toto - DEBUG - No availability
+2021-05-20 13:00:41,538 - toto - DEBUG - No availability
+2021-05-20 13:00:46,719 - toto - DEBUG - No availability
+2021-05-20 13:00:51,903 - toto - DEBUG - No availability
+2021-05-20 13:00:57,124 - toto - DEBUG - No availability
+2021-05-20 13:01:02,325 - toto - DEBUG - No availability
+2021-05-20 13:01:07,531 - toto - DEBUG - No availability
+2021-05-20 13:01:12,717 - toto - DEBUG - No availability
+2021-05-20 13:01:17,904 - toto - DEBUG - No availability
+2021-05-20 13:01:23,122 - toto - DEBUG - No availability
+2021-05-20 13:01:28,321 - toto - DEBUG - No availability
+2021-05-20 13:01:33,525 - toto - DEBUG - No availability
+2021-05-20 13:01:38,816 - toto - DEBUG - No availability
+2021-05-20 13:01:44,003 - toto - DEBUG - No availability
+2021-05-20 13:01:49,238 - toto - DEBUG - No availability
+2021-05-20 13:01:54,464 - toto - DEBUG - No availability
+2021-05-20 13:01:59,672 - toto - DEBUG - No availability
+2021-05-20 13:02:04,849 - toto - DEBUG - No availability
+2021-05-20 13:02:10,024 - toto - DEBUG - No availability
+2021-05-20 13:02:15,220 - toto - DEBUG - No availability
+2021-05-20 13:02:20,424 - toto - DEBUG - No availability
+2021-05-20 13:02:25,633 - toto - DEBUG - No availability
+2021-05-20 13:02:30,831 - toto - DEBUG - No availability
+2021-05-20 13:02:36,015 - toto - DEBUG - No availability
+2021-05-20 13:02:41,247 - toto - DEBUG - No availability
+2021-05-20 13:02:46,589 - toto - DEBUG - No availability
+2021-05-20 13:02:51,887 - toto - DEBUG - No availability
+2021-05-20 13:02:57,114 - toto - DEBUG - No availability
+2021-05-20 13:03:02,465 - toto - DEBUG - No availability
+2021-05-20 13:03:07,670 - toto - DEBUG - No availability
+2021-05-20 13:03:12,851 - toto - DEBUG - No availability
+2021-05-20 13:03:18,031 - toto - DEBUG - No availability
+2021-05-20 13:03:23,220 - toto - DEBUG - No availability
+2021-05-20 13:03:28,415 - toto - DEBUG - No availability
+2021-05-20 13:03:33,608 - toto - DEBUG - No availability
+2021-05-20 13:03:38,827 - toto - DEBUG - No availability
+2021-05-20 13:03:44,016 - toto - DEBUG - No availability
+2021-05-20 13:03:49,206 - toto - DEBUG - No availability
+2021-05-20 13:03:54,420 - toto - DEBUG - No availability
+2021-05-20 13:03:59,582 - toto - DEBUG - No availability
+2021-05-20 13:04:04,798 - toto - DEBUG - No availability
+2021-05-20 13:04:09,969 - toto - DEBUG - No availability
+2021-05-20 13:04:15,149 - toto - DEBUG - No availability
+2021-05-20 13:04:20,358 - toto - DEBUG - No availability
+2021-05-20 13:04:25,564 - toto - DEBUG - No availability
+2021-05-20 13:04:30,737 - toto - DEBUG - No availability
+2021-05-20 13:04:35,968 - toto - DEBUG - No availability
+2021-05-20 13:04:41,173 - toto - DEBUG - No availability
+2021-05-20 13:04:46,418 - toto - DEBUG - No availability
+2021-05-20 13:04:51,609 - toto - DEBUG - No availability
+2021-05-20 13:04:56,812 - toto - DEBUG - No availability
+2021-05-20 13:05:02,032 - toto - DEBUG - No availability
+2021-05-20 13:05:07,238 - toto - DEBUG - No availability
+2021-05-20 13:05:12,443 - toto - DEBUG - No availability
+2021-05-20 13:05:17,624 - toto - DEBUG - No availability
+2021-05-20 13:05:22,786 - toto - DEBUG - No availability
+2021-05-20 13:05:28,004 - toto - DEBUG - No availability
+2021-05-20 13:05:33,184 - toto - DEBUG - No availability
+2021-05-20 13:05:38,384 - toto - DEBUG - No availability
+2021-05-20 13:05:43,574 - toto - DEBUG - No availability
+2021-05-20 13:05:48,773 - toto - DEBUG - No availability
+2021-05-20 13:05:53,955 - toto - DEBUG - No availability
+2021-05-20 13:05:59,164 - toto - DEBUG - No availability
+2021-05-20 13:06:04,346 - toto - DEBUG - No availability
+2021-05-20 13:06:09,518 - toto - DEBUG - No availability
+2021-05-20 13:06:14,697 - toto - DEBUG - No availability
+2021-05-20 13:06:19,909 - toto - DEBUG - No availability
+2021-05-20 13:06:25,121 - toto - DEBUG - No availability
+2021-05-20 13:06:30,303 - toto - DEBUG - No availability
+2021-05-20 13:06:35,476 - toto - DEBUG - No availability
+2021-05-20 13:06:40,658 - toto - DEBUG - No availability
+2021-05-20 13:06:45,839 - toto - DEBUG - No availability
+2021-05-20 13:06:51,004 - toto - DEBUG - No availability
+2021-05-20 13:06:56,217 - toto - DEBUG - No availability
+2021-05-20 13:07:01,393 - toto - DEBUG - No availability
+2021-05-20 13:07:06,565 - toto - DEBUG - No availability
+2021-05-20 13:07:11,745 - toto - DEBUG - No availability
+2021-05-20 13:07:16,915 - toto - DEBUG - No availability
+2021-05-20 13:07:22,115 - toto - DEBUG - No availability
+2021-05-20 13:07:27,288 - toto - DEBUG - No availability
+2021-05-20 13:07:32,463 - toto - DEBUG - No availability
+2021-05-20 13:07:37,641 - toto - DEBUG - No availability
+2021-05-20 13:07:42,818 - toto - DEBUG - No availability
+2021-05-20 13:07:48,023 - toto - DEBUG - No availability
+2021-05-20 13:07:53,217 - toto - DEBUG - No availability
+2021-05-20 13:07:58,414 - toto - DEBUG - No availability
+2021-05-20 13:08:03,602 - toto - DEBUG - No availability
+2021-05-20 13:08:08,771 - toto - DEBUG - No availability
+2021-05-20 13:08:13,991 - toto - DEBUG - No availability
+2021-05-20 13:08:19,181 - toto - DEBUG - No availability
+2021-05-20 13:08:24,352 - toto - DEBUG - No availability
+2021-05-20 13:08:29,525 - toto - DEBUG - No availability
+2021-05-20 13:08:34,756 - toto - DEBUG - No availability
+2021-05-20 13:08:39,949 - toto - DEBUG - No availability
+2021-05-20 13:08:45,148 - toto - DEBUG - No availability
+2021-05-20 13:08:50,333 - toto - DEBUG - No availability
+2021-05-20 13:08:55,496 - toto - DEBUG - No availability
+2021-05-20 13:09:00,677 - toto - DEBUG - No availability
+2021-05-20 13:09:05,845 - toto - DEBUG - No availability
+2021-05-20 13:09:11,037 - toto - DEBUG - No availability
+2021-05-20 13:09:16,196 - toto - DEBUG - No availability
+2021-05-20 13:09:21,461 - toto - DEBUG - No availability
+2021-05-20 13:09:26,664 - toto - DEBUG - No availability
+2021-05-20 13:09:31,805 - toto - DEBUG - No availability
+2021-05-20 13:09:37,069 - toto - DEBUG - No availability
+2021-05-20 13:09:42,228 - toto - DEBUG - No availability
+2021-05-20 13:09:47,395 - toto - DEBUG - No availability
+2021-05-20 13:09:52,631 - toto - DEBUG - No availability
+2021-05-20 13:09:57,820 - toto - DEBUG - No availability
+2021-05-20 13:10:03,045 - toto - DEBUG - No availability
+2021-05-20 13:10:08,481 - toto - DEBUG - No availability
+2021-05-20 13:10:13,707 - toto - DEBUG - No availability
+2021-05-20 13:10:18,887 - toto - DEBUG - No availability
+2021-05-20 13:10:24,088 - toto - DEBUG - No availability
+2021-05-20 13:10:29,255 - toto - DEBUG - No availability
+2021-05-20 13:10:34,449 - toto - DEBUG - No availability
+2021-05-20 13:10:39,646 - toto - DEBUG - No availability
+2021-05-20 13:10:44,851 - toto - DEBUG - No availability
+2021-05-20 13:10:50,044 - toto - DEBUG - No availability
+2021-05-20 13:10:55,427 - toto - DEBUG - No availability
+2021-05-20 13:11:00,598 - toto - DEBUG - No availability
+2021-05-20 13:11:05,802 - toto - DEBUG - No availability
+2021-05-20 13:11:10,979 - toto - DEBUG - No availability
+2021-05-20 13:11:16,176 - toto - DEBUG - No availability
+2021-05-20 13:11:21,387 - toto - DEBUG - No availability
+2021-05-20 13:11:26,593 - toto - DEBUG - No availability
+2021-05-20 13:11:31,787 - toto - DEBUG - No availability
+2021-05-20 13:11:36,975 - toto - DEBUG - No availability
+2021-05-20 13:11:42,180 - toto - DEBUG - No availability
+2021-05-20 13:11:47,377 - toto - DEBUG - No availability
+2021-05-20 13:11:52,593 - toto - DEBUG - No availability
+2021-05-20 13:11:57,788 - toto - DEBUG - No availability
+2021-05-20 13:12:02,954 - toto - DEBUG - No availability
+2021-05-20 13:12:08,219 - toto - DEBUG - No availability
+2021-05-20 13:12:13,430 - toto - DEBUG - No availability
+2021-05-20 13:12:18,735 - toto - DEBUG - No availability
+2021-05-20 13:12:23,939 - toto - DEBUG - No availability
+2021-05-20 13:12:29,133 - toto - DEBUG - No availability
+2021-05-20 13:12:34,342 - toto - DEBUG - No availability
+2021-05-20 13:12:39,528 - toto - DEBUG - No availability
+2021-05-20 13:12:44,713 - toto - DEBUG - No availability
+2021-05-20 13:12:49,847 - toto - DEBUG - No availability
+2021-05-20 13:12:54,999 - toto - DEBUG - No availability
+2021-05-20 13:13:00,144 - toto - DEBUG - No availability
+2021-05-20 13:13:05,288 - toto - DEBUG - No availability
+2021-05-20 13:13:10,432 - toto - DEBUG - No availability
+2021-05-20 13:13:15,561 - toto - DEBUG - No availability
+2021-05-20 13:13:20,789 - toto - DEBUG - No availability
+2021-05-20 13:13:25,944 - toto - DEBUG - No availability
+2021-05-20 13:13:31,115 - toto - DEBUG - No availability
+2021-05-20 13:13:36,316 - toto - DEBUG - No availability
+2021-05-20 13:13:41,511 - toto - DEBUG - No availability
+2021-05-20 13:13:46,699 - toto - DEBUG - No availability
+2021-05-20 13:13:51,916 - toto - DEBUG - No availability
+2021-05-20 13:13:57,087 - toto - DEBUG - No availability
+2021-05-20 13:14:02,232 - toto - DEBUG - No availability
+2021-05-20 13:14:07,418 - toto - DEBUG - No availability
+2021-05-20 13:14:12,571 - toto - DEBUG - No availability
+2021-05-20 13:14:17,717 - toto - DEBUG - No availability
+2021-05-20 13:14:22,893 - toto - DEBUG - No availability
+2021-05-20 13:14:28,050 - toto - DEBUG - No availability
+2021-05-20 13:14:33,284 - toto - DEBUG - No availability
+2021-05-20 13:14:38,437 - toto - DEBUG - No availability
+2021-05-20 13:14:43,599 - toto - DEBUG - No availability
+2021-05-20 13:14:48,775 - toto - DEBUG - No availability
+2021-05-20 13:14:53,916 - toto - DEBUG - No availability
+2021-05-20 13:14:59,075 - toto - DEBUG - No availability
+2021-05-20 13:15:04,242 - toto - DEBUG - No availability
+2021-05-20 13:15:09,392 - toto - DEBUG - No availability
+2021-05-20 13:15:14,585 - toto - DEBUG - No availability
+2021-05-20 13:15:19,725 - toto - DEBUG - No availability
+2021-05-20 13:15:24,871 - toto - DEBUG - No availability
+2021-05-20 13:15:30,094 - toto - DEBUG - No availability
+2021-05-20 13:15:35,260 - toto - DEBUG - No availability
+2021-05-20 13:15:40,419 - toto - DEBUG - No availability
+2021-05-20 13:15:45,593 - toto - DEBUG - No availability
+2021-05-20 13:15:50,724 - toto - DEBUG - No availability
+2021-05-20 13:15:56,205 - toto - DEBUG - No availability
+2021-05-20 13:16:01,356 - toto - DEBUG - No availability
+2021-05-20 13:16:06,527 - toto - DEBUG - No availability
+2021-05-20 13:16:11,709 - toto - DEBUG - No availability
+2021-05-20 13:16:16,868 - toto - DEBUG - No availability
+2021-05-20 13:16:22,081 - toto - DEBUG - No availability
+2021-05-20 13:16:27,238 - toto - DEBUG - No availability
+2021-05-20 13:16:32,392 - toto - DEBUG - No availability
+2021-05-20 13:16:37,541 - toto - DEBUG - No availability
+2021-05-20 13:16:42,714 - toto - DEBUG - No availability
+2021-05-20 13:16:47,866 - toto - DEBUG - No availability
+2021-05-20 13:16:53,010 - toto - DEBUG - No availability
+2021-05-20 13:16:58,143 - toto - DEBUG - No availability
+2021-05-20 13:17:03,282 - toto - DEBUG - No availability
+2021-05-20 13:17:08,422 - toto - DEBUG - No availability
+2021-05-20 13:17:13,566 - toto - DEBUG - No availability
+2021-05-20 13:17:18,742 - toto - DEBUG - No availability
+2021-05-20 13:17:23,923 - toto - DEBUG - No availability
+2021-05-20 13:17:29,090 - toto - DEBUG - No availability
+2021-05-20 13:17:34,242 - toto - DEBUG - No availability
+2021-05-20 13:17:39,391 - toto - DEBUG - No availability
+2021-05-20 13:17:44,546 - toto - DEBUG - No availability
+2021-05-20 13:17:49,680 - toto - DEBUG - No availability
+2021-05-20 13:17:54,815 - toto - DEBUG - No availability
+2021-05-20 13:17:59,991 - toto - DEBUG - No availability
+2021-05-20 13:18:05,133 - toto - DEBUG - No availability
+2021-05-20 13:18:10,285 - toto - DEBUG - No availability
+2021-05-20 13:18:15,460 - toto - DEBUG - No availability
+2021-05-20 13:18:20,610 - toto - DEBUG - No availability
+2021-05-20 13:18:25,766 - toto - DEBUG - No availability
+2021-05-20 13:18:30,912 - toto - DEBUG - No availability
+2021-05-20 13:18:36,081 - toto - DEBUG - No availability
+2021-05-20 13:18:41,220 - toto - DEBUG - No availability
+2021-05-20 13:18:46,375 - toto - DEBUG - No availability
+2021-05-20 13:18:51,516 - toto - DEBUG - No availability
+2021-05-20 13:18:56,668 - toto - DEBUG - No availability
+2021-05-20 13:19:01,865 - toto - DEBUG - No availability
+2021-05-20 13:19:07,284 - toto - DEBUG - No availability
+2021-05-20 13:19:12,449 - toto - DEBUG - No availability
+2021-05-20 13:19:17,604 - toto - DEBUG - No availability
+2021-05-20 13:19:22,752 - toto - DEBUG - No availability
+2021-05-20 13:19:27,912 - toto - DEBUG - No availability
+2021-05-20 13:19:33,115 - toto - DEBUG - No availability
+2021-05-20 13:19:38,267 - toto - DEBUG - No availability
+2021-05-20 13:19:43,418 - toto - DEBUG - No availability
+2021-05-20 13:19:48,614 - toto - DEBUG - No availability
+2021-05-20 13:19:53,764 - toto - DEBUG - No availability
+2021-05-20 13:19:58,937 - toto - DEBUG - No availability
+2021-05-20 13:20:04,153 - toto - DEBUG - No availability
+2021-05-20 13:20:09,295 - toto - DEBUG - No availability
+2021-05-20 13:20:14,449 - toto - DEBUG - No availability
+2021-05-20 13:20:19,597 - toto - DEBUG - No availability
+2021-05-20 13:20:24,748 - toto - DEBUG - No availability
+2021-05-20 13:20:29,883 - toto - DEBUG - No availability
+2021-05-20 13:20:35,109 - toto - DEBUG - No availability
+2021-05-20 13:20:40,265 - toto - DEBUG - No availability
+2021-05-20 13:20:45,429 - toto - DEBUG - No availability
+2021-05-20 13:20:50,584 - toto - DEBUG - No availability
+2021-05-20 13:20:55,863 - toto - DEBUG - No availability
+2021-05-20 13:21:01,031 - toto - DEBUG - No availability
+2021-05-20 13:21:06,178 - toto - DEBUG - No availability
+2021-05-20 13:21:11,306 - toto - DEBUG - No availability
+2021-05-20 13:21:16,431 - toto - DEBUG - No availability
+2021-05-20 13:21:21,613 - toto - DEBUG - No availability
+2021-05-20 13:21:26,802 - toto - DEBUG - No availability
+2021-05-20 13:21:31,940 - toto - DEBUG - No availability
+2021-05-20 13:21:37,094 - toto - DEBUG - No availability
+2021-05-20 13:21:42,275 - toto - DEBUG - No availability
+2021-05-20 13:21:47,414 - toto - DEBUG - No availability
+2021-05-20 13:21:52,594 - toto - DEBUG - No availability
+2021-05-20 13:21:57,737 - toto - DEBUG - No availability
+2021-05-20 13:22:02,891 - toto - DEBUG - No availability
+2021-05-20 13:22:08,119 - toto - DEBUG - No availability
+2021-05-20 13:22:13,296 - toto - DEBUG - No availability
+2021-05-20 13:22:18,886 - toto - DEBUG - No availability
+2021-05-20 13:22:24,091 - toto - DEBUG - No availability
+2021-05-20 13:22:29,235 - toto - DEBUG - No availability
+2021-05-20 13:22:34,401 - toto - DEBUG - No availability
+2021-05-20 13:22:39,539 - toto - DEBUG - No availability
+2021-05-20 13:22:44,705 - toto - DEBUG - No availability
+2021-05-20 13:22:49,864 - toto - DEBUG - No availability
+2021-05-20 13:22:55,009 - toto - DEBUG - No availability
+2021-05-20 13:23:00,151 - toto - DEBUG - No availability
+2021-05-20 13:23:05,308 - toto - DEBUG - No availability
+2021-05-20 13:23:10,504 - toto - DEBUG - No availability
+2021-05-20 13:23:15,650 - toto - DEBUG - No availability
+2021-05-20 13:23:20,831 - toto - DEBUG - No availability
+2021-05-20 13:23:26,010 - toto - DEBUG - No availability
+2021-05-20 13:23:31,179 - toto - DEBUG - No availability
+2021-05-20 13:23:36,486 - toto - DEBUG - No availability
+2021-05-20 13:23:41,764 - toto - DEBUG - No availability
+2021-05-20 13:23:46,995 - toto - DEBUG - No availability
+2021-05-20 13:23:52,141 - toto - DEBUG - No availability
+2021-05-20 13:23:57,292 - toto - DEBUG - No availability
+2021-05-20 13:24:02,435 - toto - DEBUG - No availability
+2021-05-20 13:24:07,574 - toto - DEBUG - No availability
+2021-05-20 13:24:12,714 - toto - DEBUG - No availability
+2021-05-20 13:24:17,853 - toto - DEBUG - No availability
+2021-05-20 13:24:23,014 - toto - DEBUG - No availability
+2021-05-20 13:24:28,174 - toto - DEBUG - No availability
+2021-05-20 13:24:33,338 - toto - DEBUG - No availability
+2021-05-20 13:24:38,486 - toto - DEBUG - No availability
+2021-05-20 13:24:43,684 - toto - DEBUG - No availability
+2021-05-20 13:24:48,842 - toto - DEBUG - No availability
+2021-05-20 13:24:54,073 - toto - DEBUG - No availability
+2021-05-20 13:24:59,235 - toto - DEBUG - No availability
+2021-05-20 13:25:04,380 - toto - DEBUG - No availability
+2021-05-20 13:25:09,536 - toto - DEBUG - No availability
+2021-05-20 13:25:14,686 - toto - DEBUG - No availability
+2021-05-20 13:25:19,861 - toto - DEBUG - No availability
+2021-05-20 13:25:25,010 - toto - DEBUG - No availability
+2021-05-20 13:25:30,247 - toto - DEBUG - No availability
+2021-05-20 13:25:35,426 - toto - DEBUG - No availability
+2021-05-20 13:25:40,609 - toto - DEBUG - No availability
+2021-05-20 13:25:45,780 - toto - DEBUG - No availability
+2021-05-20 13:25:50,951 - toto - DEBUG - No availability
+2021-05-20 13:25:56,461 - toto - DEBUG - No availability
+2021-05-20 13:26:01,648 - toto - DEBUG - No availability
+2021-05-20 13:26:06,866 - toto - DEBUG - No availability
+2021-05-20 13:26:12,058 - toto - DEBUG - No availability
+2021-05-20 13:26:17,229 - toto - DEBUG - No availability
+2021-05-20 13:26:22,422 - toto - DEBUG - No availability
+2021-05-20 13:26:27,669 - toto - DEBUG - No availability
+2021-05-20 13:26:36,045 - toto - DEBUG - No availability
+2021-05-20 13:26:42,133 - toto - DEBUG - No availability
+2021-05-20 13:26:47,640 - toto - DEBUG - No availability
+2021-05-20 13:26:55,542 - toto - DEBUG - No availability
+2021-05-20 13:27:00,820 - toto - DEBUG - No availability
+2021-05-20 13:27:06,029 - toto - DEBUG - No availability
+2021-05-20 13:27:11,402 - toto - DEBUG - No availability
+2021-05-20 13:27:17,307 - toto - DEBUG - No availability
+2021-05-20 13:27:22,910 - toto - DEBUG - No availability
+2021-05-20 13:27:33,065 - toto - DEBUG - No availability
+2021-05-20 13:27:38,527 - toto - DEBUG - No availability
+2021-05-20 13:27:43,762 - toto - DEBUG - No availability
+2021-05-20 13:27:48,951 - toto - DEBUG - No availability
+2021-05-20 13:27:54,173 - toto - DEBUG - No availability
+2021-05-20 13:27:59,389 - toto - DEBUG - No availability
+2021-05-20 13:28:04,589 - toto - DEBUG - No availability
+2021-05-20 13:28:09,798 - toto - DEBUG - No availability
+2021-05-20 13:28:14,964 - toto - DEBUG - No availability
+2021-05-20 13:28:20,117 - toto - DEBUG - No availability
+2021-05-20 13:28:25,273 - toto - DEBUG - No availability
+2021-05-20 13:28:30,418 - toto - DEBUG - No availability
+2021-05-20 13:28:35,574 - toto - DEBUG - No availability
+2021-05-20 13:28:40,719 - toto - DEBUG - No availability
+2021-05-20 13:28:45,900 - toto - DEBUG - No availability
+2021-05-20 13:28:51,045 - toto - DEBUG - No availability
+2021-05-20 13:28:56,193 - toto - DEBUG - No availability
+2021-05-20 13:29:01,364 - toto - DEBUG - No availability
+2021-05-20 13:29:06,554 - toto - DEBUG - No availability
+2021-05-20 13:29:11,751 - toto - DEBUG - No availability
+2021-05-20 13:29:16,934 - toto - DEBUG - No availability
+2021-05-20 13:29:22,123 - toto - DEBUG - No availability
+2021-05-20 13:29:27,315 - toto - DEBUG - No availability
+2021-05-20 13:29:32,526 - toto - DEBUG - No availability
+2021-05-20 13:29:37,705 - toto - DEBUG - No availability
+2021-05-20 13:29:42,895 - toto - DEBUG - No availability
+2021-05-20 13:29:48,085 - toto - DEBUG - No availability
+2021-05-20 13:29:53,289 - toto - DEBUG - No availability
+2021-05-20 13:29:58,522 - toto - DEBUG - No availability
+2021-05-20 13:30:03,699 - toto - DEBUG - No availability
+2021-05-20 13:30:08,905 - toto - DEBUG - No availability
+2021-05-20 13:30:14,099 - toto - DEBUG - No availability
+2021-05-20 13:30:19,303 - toto - DEBUG - No availability
+2021-05-20 13:30:24,511 - toto - DEBUG - No availability
+2021-05-20 13:30:29,713 - toto - DEBUG - No availability
+2021-05-20 13:30:34,888 - toto - DEBUG - No availability
+2021-05-20 13:30:40,061 - toto - DEBUG - No availability
+2021-05-20 13:30:45,269 - toto - DEBUG - No availability
+2021-05-20 13:30:50,468 - toto - DEBUG - No availability
+2021-05-20 13:30:55,645 - toto - DEBUG - No availability
+2021-05-20 13:31:00,812 - toto - DEBUG - No availability
+2021-05-20 13:31:05,955 - toto - DEBUG - No availability
+2021-05-20 13:31:11,115 - toto - DEBUG - No availability
+2021-05-20 13:31:16,239 - toto - DEBUG - No availability
+2021-05-20 13:31:21,399 - toto - DEBUG - No availability
+2021-05-20 13:31:26,549 - toto - DEBUG - No availability
+2021-05-20 13:31:31,689 - toto - DEBUG - No availability
+2021-05-20 13:31:36,851 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:31:42,009 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:31:47,212 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:31:52,390 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:31:57,576 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:02,764 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:08,022 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:13,189 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:18,382 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:23,565 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:28,739 - toto - DEBUG - {452003: '20-05-2021'}
+2021-05-20 13:32:33,901 - toto - DEBUG - No availability
+2021-05-20 13:32:39,083 - toto - DEBUG - No availability
+2021-05-20 13:32:44,256 - toto - DEBUG - No availability
+2021-05-20 13:32:49,420 - toto - DEBUG - No availability
+2021-05-20 13:32:54,565 - toto - DEBUG - No availability
+2021-05-20 13:32:59,721 - toto - DEBUG - No availability
+2021-05-20 13:33:04,926 - toto - DEBUG - No availability
+2021-05-20 13:33:10,068 - toto - DEBUG - No availability
+2021-05-20 13:33:15,204 - toto - DEBUG - No availability
+2021-05-20 13:33:20,328 - toto - DEBUG - No availability
+2021-05-20 13:33:25,461 - toto - DEBUG - No availability
+2021-05-20 13:33:30,621 - toto - DEBUG - No availability
+2021-05-20 13:33:35,801 - toto - DEBUG - No availability
+2021-05-20 13:33:40,960 - toto - DEBUG - No availability
+2021-05-20 13:33:46,113 - toto - DEBUG - No availability
+2021-05-20 13:33:51,372 - toto - DEBUG - No availability
+2021-05-20 13:33:56,555 - toto - DEBUG - No availability
+2021-05-20 13:34:01,729 - toto - DEBUG - No availability
+2021-05-20 13:34:06,909 - toto - DEBUG - No availability
+2021-05-20 13:34:12,047 - toto - DEBUG - No availability
+2021-05-20 13:34:17,197 - toto - DEBUG - No availability
+2021-05-20 13:34:22,352 - toto - DEBUG - No availability
+2021-05-20 13:34:27,475 - toto - DEBUG - No availability
+2021-05-20 13:34:32,679 - toto - DEBUG - No availability
+2021-05-20 13:34:37,872 - toto - DEBUG - No availability
+2021-05-20 13:34:43,049 - toto - DEBUG - No availability
+2021-05-20 13:34:48,227 - toto - DEBUG - No availability
+2021-05-20 13:34:53,416 - toto - DEBUG - No availability
+2021-05-20 13:34:58,630 - toto - DEBUG - No availability
+2021-05-20 13:35:03,893 - toto - DEBUG - No availability
+2021-05-20 13:35:09,080 - toto - DEBUG - No availability
+2021-05-20 13:35:14,269 - toto - DEBUG - No availability
+2021-05-20 13:35:19,439 - toto - DEBUG - No availability
+2021-05-20 13:35:24,643 - toto - DEBUG - No availability
+2021-05-20 13:35:29,846 - toto - DEBUG - No availability
+2021-05-20 13:35:35,018 - toto - DEBUG - No availability
+2021-05-20 13:35:40,190 - toto - DEBUG - No availability
+2021-05-20 13:35:45,374 - toto - DEBUG - No availability
+2021-05-20 13:35:50,545 - toto - DEBUG - No availability
+2021-05-20 13:35:55,718 - toto - DEBUG - No availability
+2021-05-20 13:36:00,926 - toto - DEBUG - No availability
+2021-05-20 13:36:06,107 - toto - DEBUG - No availability
+2021-05-20 13:36:11,296 - toto - DEBUG - No availability
+2021-05-20 13:36:16,485 - toto - DEBUG - No availability
+2021-05-20 13:36:21,656 - toto - DEBUG - No availability
+2021-05-20 13:36:26,809 - toto - DEBUG - No availability
+2021-05-20 13:36:31,957 - toto - DEBUG - No availability
+2021-05-20 13:36:37,106 - toto - DEBUG - No availability
+2021-05-20 13:36:42,269 - toto - DEBUG - No availability
+2021-05-20 13:36:47,438 - toto - DEBUG - No availability
+2021-05-20 13:36:52,618 - toto - DEBUG - No availability
+2021-05-20 13:36:57,771 - toto - DEBUG - No availability
+2021-05-20 13:37:02,920 - toto - DEBUG - No availability
+2021-05-20 13:37:08,075 - toto - DEBUG - No availability
+2021-05-20 13:37:13,256 - toto - DEBUG - No availability
+2021-05-20 13:37:22,999 - toto - DEBUG - Outside of methods
+2021-05-20 13:37:23,137 - toto - DEBUG - No availability
+2021-05-20 13:37:28,278 - toto - DEBUG - No availability
+2021-05-20 13:37:33,404 - toto - DEBUG - No availability
+2021-05-20 13:37:38,579 - toto - DEBUG - No availability
+2021-05-20 13:37:43,748 - toto - DEBUG - No availability
+2021-05-20 13:37:48,896 - toto - DEBUG - No availability
+2021-05-20 13:37:54,064 - toto - DEBUG - No availability
+2021-05-20 13:37:59,209 - toto - DEBUG - No availability
+2021-05-20 13:38:04,376 - toto - DEBUG - No availability
+2021-05-20 13:38:09,585 - toto - DEBUG - No availability
+2021-05-20 13:38:14,773 - toto - DEBUG - No availability
+2021-05-20 13:38:19,982 - toto - DEBUG - No availability
+2021-05-20 13:38:25,165 - toto - DEBUG - No availability
+2021-05-20 13:38:30,347 - toto - DEBUG - No availability
+2021-05-20 13:38:35,546 - toto - DEBUG - No availability
+2021-05-20 13:38:40,748 - toto - DEBUG - No availability
+2021-05-20 13:38:45,930 - toto - DEBUG - No availability
+2021-05-20 13:38:51,110 - toto - DEBUG - No availability
+2021-05-20 13:38:56,287 - toto - DEBUG - No availability
+2021-05-20 13:39:01,476 - toto - DEBUG - No availability
+2021-05-20 13:39:06,647 - toto - DEBUG - No availability
+2021-05-20 13:39:11,793 - toto - DEBUG - No availability
+2021-05-20 13:39:16,958 - toto - DEBUG - No availability
+2021-05-20 13:39:22,145 - toto - DEBUG - No availability
+2021-05-20 13:39:27,311 - toto - DEBUG - No availability
+2021-05-20 13:39:32,452 - toto - DEBUG - No availability
+2021-05-20 13:39:37,605 - toto - DEBUG - No availability
+2021-05-20 13:39:42,759 - toto - DEBUG - No availability
+2021-05-20 13:39:47,897 - toto - DEBUG - No availability
+2021-05-20 13:39:53,069 - toto - DEBUG - No availability
+2021-05-20 13:39:58,299 - toto - DEBUG - No availability
+2021-05-20 13:40:03,506 - toto - DEBUG - No availability
+2021-05-20 13:40:08,687 - toto - DEBUG - No availability
+2021-05-20 13:40:13,863 - toto - DEBUG - No availability
+2021-05-20 13:40:19,091 - toto - DEBUG - No availability
+2021-05-20 13:40:24,281 - toto - DEBUG - No availability
+2021-05-20 13:40:29,467 - toto - DEBUG - No availability
+2021-05-20 13:40:34,645 - toto - DEBUG - No availability
+2021-05-20 13:40:39,836 - toto - DEBUG - No availability
+2021-05-20 13:40:44,997 - toto - DEBUG - No availability
+2021-05-20 13:40:50,194 - toto - DEBUG - No availability
+2021-05-20 13:40:55,374 - toto - DEBUG - No availability
+2021-05-20 13:41:00,532 - toto - DEBUG - No availability
+2021-05-20 13:41:05,687 - toto - DEBUG - No availability
+2021-05-20 13:41:10,870 - toto - DEBUG - No availability
+2021-05-20 13:41:16,026 - toto - DEBUG - No availability
+2021-05-20 13:41:21,169 - toto - DEBUG - No availability
+2021-05-20 13:41:26,340 - toto - DEBUG - No availability
+2021-05-20 13:41:31,487 - toto - DEBUG - No availability
+2021-05-20 13:41:36,640 - toto - DEBUG - No availability
+2021-05-20 13:41:41,782 - toto - DEBUG - No availability
+2021-05-20 13:41:46,953 - toto - DEBUG - No availability
+2021-05-20 13:41:52,118 - toto - DEBUG - No availability
+2021-05-20 13:41:57,293 - toto - DEBUG - No availability
+2021-05-20 13:42:02,424 - toto - DEBUG - No availability
+2021-05-20 13:42:07,584 - toto - DEBUG - No availability
+2021-05-20 13:42:12,721 - toto - DEBUG - No availability
+2021-05-20 13:42:17,867 - toto - DEBUG - No availability
+2021-05-20 13:42:23,018 - toto - DEBUG - No availability
+2021-05-20 13:42:28,166 - toto - DEBUG - No availability
+2021-05-20 13:42:33,297 - toto - DEBUG - No availability
+2021-05-20 13:42:38,438 - toto - DEBUG - No availability
+2021-05-20 13:42:43,597 - toto - DEBUG - No availability
+2021-05-20 13:42:48,765 - toto - DEBUG - No availability
+2021-05-20 13:42:53,900 - toto - DEBUG - No availability
+2021-05-20 13:42:59,073 - toto - DEBUG - No availability
+2021-05-20 13:43:04,248 - toto - DEBUG - No availability
+2021-05-20 13:43:09,379 - toto - DEBUG - No availability
+2021-05-20 13:43:14,530 - toto - DEBUG - No availability
+2021-05-20 13:43:19,697 - toto - DEBUG - No availability
+2021-05-20 13:43:24,847 - toto - DEBUG - No availability
+2021-05-20 13:43:30,049 - toto - DEBUG - No availability
+2021-05-20 13:43:35,223 - toto - DEBUG - No availability
+2021-05-20 13:43:40,384 - toto - DEBUG - No availability
+2021-05-20 13:43:45,558 - toto - DEBUG - No availability
+2021-05-20 13:43:50,720 - toto - DEBUG - No availability
+2021-05-20 13:43:55,844 - toto - DEBUG - No availability
+2021-05-20 13:44:01,015 - toto - DEBUG - No availability
+2021-05-20 13:44:06,170 - toto - DEBUG - No availability
+2021-05-20 13:44:11,322 - toto - DEBUG - No availability
+2021-05-20 13:44:16,484 - toto - DEBUG - No availability
+2021-05-20 13:44:21,641 - toto - DEBUG - No availability
+2021-05-20 13:44:26,780 - toto - DEBUG - No availability
+2021-05-20 13:44:31,958 - toto - DEBUG - No availability
+2021-05-20 13:44:37,102 - toto - DEBUG - No availability
+2021-05-20 13:44:42,243 - toto - DEBUG - No availability
+2021-05-20 13:44:47,394 - toto - DEBUG - No availability
+2021-05-20 13:44:52,546 - toto - DEBUG - No availability
+2021-05-20 13:44:57,712 - toto - DEBUG - No availability
+2021-05-20 13:45:02,869 - toto - DEBUG - No availability
+2021-05-20 13:45:08,016 - toto - DEBUG - No availability
+2021-05-20 13:45:13,209 - toto - DEBUG - No availability
+2021-05-20 13:45:18,351 - toto - DEBUG - No availability
+2021-05-20 13:45:23,509 - toto - DEBUG - No availability
+2021-05-20 13:45:28,703 - toto - DEBUG - No availability
+2021-05-20 13:45:33,878 - toto - DEBUG - No availability
+2021-05-20 13:45:39,042 - toto - DEBUG - No availability
+2021-05-20 13:45:44,218 - toto - DEBUG - No availability
+2021-05-20 13:45:49,408 - toto - DEBUG - No availability
+2021-05-20 13:45:54,640 - toto - DEBUG - No availability
+2021-05-20 13:45:59,810 - toto - DEBUG - No availability
+2021-05-20 13:46:04,997 - toto - DEBUG - No availability
+2021-05-20 13:46:10,193 - toto - DEBUG - No availability
+2021-05-20 13:46:15,389 - toto - DEBUG - No availability
+2021-05-20 13:46:20,593 - toto - DEBUG - No availability
+2021-05-20 13:46:25,825 - toto - DEBUG - No availability
+2021-05-20 13:46:31,008 - toto - DEBUG - No availability
+2021-05-20 13:46:36,254 - toto - DEBUG - No availability
+2021-05-20 13:46:41,425 - toto - DEBUG - No availability
+2021-05-20 13:46:46,643 - toto - DEBUG - No availability
+2021-05-20 13:46:51,832 - toto - DEBUG - No availability
+2021-05-20 13:46:57,015 - toto - DEBUG - No availability
+2021-05-20 13:47:02,209 - toto - DEBUG - No availability
+2021-05-20 13:47:07,395 - toto - DEBUG - No availability
+2021-05-20 13:47:12,576 - toto - DEBUG - No availability
+2021-05-20 13:47:17,747 - toto - DEBUG - No availability
+2021-05-20 13:47:22,938 - toto - DEBUG - No availability
+2021-05-20 13:47:28,074 - toto - DEBUG - No availability
+2021-05-20 13:47:33,225 - toto - DEBUG - No availability
+2021-05-20 13:47:38,396 - toto - DEBUG - No availability
+2021-05-20 13:47:43,600 - toto - DEBUG - No availability
+2021-05-20 13:47:48,728 - toto - DEBUG - No availability
+2021-05-20 13:47:53,898 - toto - DEBUG - No availability
+2021-05-20 13:47:59,040 - toto - DEBUG - No availability
+2021-05-20 13:48:04,192 - toto - DEBUG - No availability
+2021-05-20 13:48:09,336 - toto - DEBUG - No availability
+2021-05-20 13:48:14,512 - toto - DEBUG - No availability
+2021-05-20 13:48:19,679 - toto - DEBUG - No availability
+2021-05-20 13:48:24,830 - toto - DEBUG - No availability
+2021-05-20 13:48:29,991 - toto - DEBUG - No availability
+2021-05-20 13:48:35,142 - toto - DEBUG - No availability
+2021-05-20 13:48:40,313 - toto - DEBUG - No availability
+2021-05-20 13:48:45,509 - toto - DEBUG - No availability
+2021-05-20 13:48:50,661 - toto - DEBUG - No availability
+2021-05-20 13:48:55,828 - toto - DEBUG - No availability
+2021-05-20 13:49:01,002 - toto - DEBUG - No availability
+2021-05-20 13:49:06,204 - toto - DEBUG - No availability
+2021-05-20 13:49:11,403 - toto - DEBUG - No availability
+2021-05-20 13:49:16,546 - toto - DEBUG - No availability
+2021-05-20 13:49:21,890 - toto - DEBUG - No availability
+2021-05-20 13:49:27,119 - toto - DEBUG - No availability
+2021-05-20 13:49:32,276 - toto - DEBUG - No availability
+2021-05-20 13:49:37,467 - toto - DEBUG - No availability
+2021-05-20 13:49:42,610 - toto - DEBUG - No availability
+2021-05-20 13:49:47,757 - toto - DEBUG - No availability
+2021-05-20 13:49:52,903 - toto - DEBUG - No availability
+2021-05-20 13:49:58,105 - toto - DEBUG - No availability
+2021-05-20 13:50:03,266 - toto - DEBUG - No availability
+2021-05-20 13:50:08,413 - toto - DEBUG - No availability
+2021-05-20 13:50:13,561 - toto - DEBUG - No availability
+2021-05-20 13:50:18,700 - toto - DEBUG - No availability
+2021-05-20 13:50:23,895 - toto - DEBUG - No availability
+2021-05-20 13:50:29,030 - toto - DEBUG - No availability
+2021-05-20 13:50:34,181 - toto - DEBUG - No availability
+2021-05-20 13:50:39,341 - toto - DEBUG - No availability
+2021-05-20 13:50:44,485 - toto - DEBUG - No availability
+2021-05-20 13:50:49,630 - toto - DEBUG - No availability
+2021-05-20 13:50:54,844 - toto - DEBUG - No availability
+2021-05-20 13:51:00,048 - toto - DEBUG - No availability
+2021-05-20 13:51:05,240 - toto - DEBUG - No availability
+2021-05-20 13:51:10,371 - toto - DEBUG - No availability
+2021-05-20 13:51:15,509 - toto - DEBUG - No availability
+2021-05-20 13:51:20,679 - toto - DEBUG - No availability
+2021-05-20 13:51:25,841 - toto - DEBUG - No availability
+2021-05-20 13:51:31,004 - toto - DEBUG - No availability
+2021-05-20 13:51:36,147 - toto - DEBUG - No availability
+2021-05-20 13:51:41,335 - toto - DEBUG - No availability
+2021-05-20 13:51:46,508 - toto - DEBUG - No availability
+2021-05-20 13:51:51,724 - toto - DEBUG - No availability
+2021-05-20 13:51:56,901 - toto - DEBUG - No availability
+2021-05-20 13:52:02,085 - toto - DEBUG - No availability
+2021-05-20 13:52:07,257 - toto - DEBUG - No availability
+2021-05-20 13:52:12,455 - toto - DEBUG - No availability
+2021-05-20 13:52:17,629 - toto - DEBUG - No availability
+2021-05-20 13:52:22,872 - toto - DEBUG - No availability
+2021-05-20 13:52:28,055 - toto - DEBUG - No availability
+2021-05-20 13:52:33,241 - toto - DEBUG - No availability
+2021-05-20 13:52:38,453 - toto - DEBUG - No availability
+2021-05-20 13:52:43,710 - toto - DEBUG - No availability
+2021-05-20 13:52:48,882 - toto - DEBUG - No availability
+2021-05-20 13:52:54,066 - toto - DEBUG - No availability
+2021-05-20 13:52:59,229 - toto - DEBUG - No availability
+2021-05-20 13:53:04,413 - toto - DEBUG - No availability
+2021-05-20 13:53:09,622 - toto - DEBUG - No availability
+2021-05-20 13:53:14,824 - toto - DEBUG - No availability
+2021-05-20 13:53:20,028 - toto - DEBUG - No availability
+2021-05-20 13:53:25,198 - toto - DEBUG - No availability
+2021-05-20 13:53:30,378 - toto - DEBUG - No availability
+2021-05-20 13:53:35,610 - toto - DEBUG - No availability
+2021-05-20 13:53:40,812 - toto - DEBUG - No availability
+2021-05-20 13:53:45,979 - toto - DEBUG - No availability
+2021-05-20 13:53:51,157 - toto - DEBUG - No availability
+2021-05-20 13:53:56,349 - toto - DEBUG - No availability
+2021-05-20 13:54:01,530 - toto - DEBUG - No availability
+2021-05-20 13:54:06,740 - toto - DEBUG - No availability
+2021-05-20 13:54:11,925 - toto - DEBUG - No availability
+2021-05-20 13:54:17,106 - toto - DEBUG - No availability
+2021-05-20 13:54:22,294 - toto - DEBUG - No availability
+2021-05-20 13:54:27,461 - toto - DEBUG - No availability
+2021-05-20 13:54:32,745 - toto - DEBUG - No availability
+2021-05-20 13:54:37,918 - toto - DEBUG - No availability
+2021-05-20 13:54:43,084 - toto - DEBUG - No availability
+2021-05-20 13:54:48,283 - toto - DEBUG - No availability
+2021-05-20 13:54:53,458 - toto - DEBUG - No availability
+2021-05-20 13:54:58,651 - toto - DEBUG - No availability
+2021-05-20 13:55:03,829 - toto - DEBUG - No availability
+2021-05-20 13:55:09,008 - toto - DEBUG - No availability
+2021-05-20 13:55:14,175 - toto - DEBUG - No availability
+2021-05-20 13:55:19,345 - toto - DEBUG - No availability
+2021-05-20 13:55:24,587 - toto - DEBUG - No availability
+2021-05-20 13:55:29,867 - toto - DEBUG - No availability
+2021-05-20 13:55:35,070 - toto - DEBUG - No availability
+2021-05-20 13:55:40,230 - toto - DEBUG - No availability
+2021-05-20 14:00:37,615 - toto - DEBUG - Outside of methods
+2021-05-20 14:00:37,862 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:00:51,704 - toto - DEBUG - Outside of methods
+2021-05-20 14:00:51,904 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:00:58,278 - toto - DEBUG - Outside of methods
+2021-05-20 14:00:58,453 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:01:27,578 - toto - DEBUG - Outside of methods
+2021-05-20 14:01:27,796 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:02:06,638 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:03:06,547 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:03:11,819 - toto - DEBUG - Outside of methods
+2021-05-20 14:03:12,001 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:04:50,876 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:06:47,978 - toto - DEBUG - Outside of methods
+2021-05-20 14:06:48,287 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:07:53,833 - toto - DEBUG - Outside of methods
+2021-05-20 14:07:54,067 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:08:21,216 - toto - DEBUG - Outside of methods
+2021-05-20 14:08:21,402 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:14:55,249 - toto - DEBUG - Outside of methods
+2021-05-20 14:14:55,468 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:25:17,517 - toto - DEBUG - Outside of methods
+2021-05-20 14:25:17,753 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:25:33,960 - toto - DEBUG - Outside of methods
+2021-05-20 14:25:34,164 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:26:19,799 - toto - DEBUG - Outside of methods
+2021-05-20 14:26:20,009 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:28:46,048 - toto - DEBUG - Outside of methods
+2021-05-20 14:28:46,323 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:28:56,805 - toto - DEBUG - Outside of methods
+2021-05-20 14:28:56,971 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:29:00,918 - toto - DEBUG - Outside of methods
+2021-05-20 14:29:01,120 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:31:09,031 - toto - DEBUG - Outside of methods
+2021-05-20 14:31:09,278 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 14:31:51,157 - toto - DEBUG - Outside of methods
+2021-05-20 14:31:51,340 - toto - DEBUG - No availability
+2021-05-20 14:32:51,531 - toto - DEBUG - No availability
+2021-05-20 14:33:51,756 - toto - DEBUG - No availability
+2021-05-20 14:34:52,007 - toto - DEBUG - No availability
+2021-05-20 14:35:52,254 - toto - DEBUG - No availability
+2021-05-20 14:36:52,451 - toto - DEBUG - No availability
+2021-05-20 14:37:52,666 - toto - DEBUG - No availability
+2021-05-20 14:38:52,890 - toto - DEBUG - No availability
+2021-05-20 14:39:53,064 - toto - DEBUG - No availability
+2021-05-20 14:40:53,303 - toto - DEBUG - No availability
+2021-05-20 14:41:53,478 - toto - DEBUG - No availability
+2021-05-20 14:42:53,692 - toto - DEBUG - No availability
+2021-05-20 14:43:53,886 - toto - DEBUG - No availability
+2021-05-20 14:44:54,123 - toto - DEBUG - No availability
+2021-05-20 14:45:54,356 - toto - DEBUG - No availability
+2021-05-20 14:46:54,588 - toto - DEBUG - No availability
+2021-05-20 14:47:54,835 - toto - DEBUG - No availability
+2021-05-20 14:48:55,029 - toto - DEBUG - No availability
+2021-05-20 14:49:58,234 - toto - DEBUG - No availability
+2021-05-20 14:50:58,433 - toto - DEBUG - No availability
+2021-05-20 14:51:58,625 - toto - DEBUG - No availability
+2021-05-20 14:52:58,811 - toto - DEBUG - No availability
+2021-05-20 14:53:59,029 - toto - DEBUG - No availability
+2021-05-20 14:54:59,212 - toto - DEBUG - No availability
+2021-05-20 14:55:59,415 - toto - DEBUG - No availability
+2021-05-20 14:56:59,630 - toto - DEBUG - No availability
+2021-05-20 14:57:59,850 - toto - DEBUG - No availability
+2021-05-20 14:59:00,071 - toto - DEBUG - No availability
+2021-05-20 15:00:00,291 - toto - DEBUG - No availability
+2021-05-20 15:01:00,505 - toto - DEBUG - No availability
+2021-05-20 15:02:00,696 - toto - DEBUG - No availability
+2021-05-20 15:03:00,902 - toto - DEBUG - No availability
+2021-05-20 15:15:20,630 - toto - DEBUG - No availability
+2021-05-20 15:16:20,188 - toto - DEBUG - No availability
+2021-05-20 15:17:20,403 - toto - DEBUG - No availability
+2021-05-20 15:18:20,595 - toto - DEBUG - No availability
+2021-05-20 15:19:20,769 - toto - DEBUG - No availability
+2021-05-20 15:20:20,962 - toto - DEBUG - No availability
+2021-05-20 15:21:21,237 - toto - DEBUG - No availability
+2021-05-20 15:22:21,422 - toto - DEBUG - No availability
+2021-05-20 15:23:21,621 - toto - DEBUG - No availability
+2021-05-20 15:24:21,878 - toto - DEBUG - No availability
+2021-05-20 15:25:22,107 - toto - DEBUG - No availability
+2021-05-20 15:26:22,318 - toto - DEBUG - No availability
+2021-05-20 15:27:22,495 - toto - DEBUG - No availability
+2021-05-20 15:28:22,717 - toto - DEBUG - No availability
+2021-05-20 15:29:22,920 - toto - DEBUG - No availability
+2021-05-20 15:30:23,191 - toto - DEBUG - No availability
+2021-05-20 15:31:23,406 - toto - DEBUG - No availability
+2021-05-20 15:32:23,623 - toto - DEBUG - No availability
+2021-05-20 15:33:23,836 - toto - DEBUG - No availability
+2021-05-20 15:34:24,082 - toto - DEBUG - No availability
+2021-05-20 15:35:24,277 - toto - DEBUG - No availability
+2021-05-20 15:36:24,432 - toto - DEBUG - No availability
+2021-05-20 15:37:24,650 - toto - DEBUG - No availability
+2021-05-20 15:38:24,835 - toto - DEBUG - No availability
+2021-05-20 15:39:25,034 - toto - DEBUG - No availability
+2021-05-20 15:40:25,227 - toto - DEBUG - No availability
+2021-05-20 15:41:25,548 - toto - DEBUG - No availability
+2021-05-20 15:42:25,860 - toto - DEBUG - No availability
+2021-05-20 15:43:26,117 - toto - DEBUG - No availability
+2021-05-20 15:44:26,337 - toto - DEBUG - No availability
+2021-05-20 15:45:26,510 - toto - DEBUG - No availability
+2021-05-20 15:46:26,704 - toto - DEBUG - No availability
+2021-05-20 15:47:26,924 - toto - DEBUG - No availability
+2021-05-20 15:48:27,124 - toto - DEBUG - No availability
+2021-05-20 15:49:27,410 - toto - DEBUG - No availability
+2021-05-20 15:50:27,671 - toto - DEBUG - No availability
+2021-05-20 15:51:27,914 - toto - DEBUG - No availability
+2021-05-20 15:52:28,180 - toto - DEBUG - No availability
+2021-05-20 15:53:28,384 - toto - DEBUG - No availability
+2021-05-20 15:54:28,696 - toto - DEBUG - No availability
+2021-05-20 15:55:28,956 - toto - DEBUG - No availability
+2021-05-20 15:56:29,149 - toto - DEBUG - No availability
+2021-05-20 15:57:29,406 - toto - DEBUG - No availability
+2021-05-20 15:58:29,622 - toto - DEBUG - No availability
+2021-05-20 15:59:29,894 - toto - DEBUG - No availability
+2021-05-20 16:00:30,194 - toto - DEBUG - No availability
+2021-05-20 16:01:30,418 - toto - DEBUG - No availability
+2021-05-20 16:02:30,634 - toto - DEBUG - No availability
+2021-05-20 16:03:30,909 - toto - DEBUG - No availability
+2021-05-20 16:04:31,106 - toto - DEBUG - No availability
+2021-05-20 16:05:31,510 - toto - DEBUG - No availability
+2021-05-20 16:06:31,752 - toto - DEBUG - {452007: '20-05-2021'}
+2021-05-20 16:12:15,949 - toto - DEBUG - Outside of methods
+2021-05-20 16:12:16,195 - toto - DEBUG - No availability
+2021-05-20 16:13:16,437 - toto - DEBUG - No availability
+2021-05-20 16:14:16,656 - toto - DEBUG - No availability
+2021-05-20 16:15:16,857 - toto - DEBUG - No availability
+2021-05-20 16:16:17,086 - toto - DEBUG - No availability
+2021-05-20 16:17:17,307 - toto - DEBUG - No availability
+2021-05-20 16:18:17,579 - toto - DEBUG - No availability
+2021-05-20 16:19:17,823 - toto - DEBUG - No availability
+2021-05-20 16:20:18,085 - toto - DEBUG - No availability
+2021-05-20 16:21:18,344 - toto - DEBUG - No availability
+2021-05-20 16:22:18,623 - toto - DEBUG - No availability
+2021-05-20 16:23:18,869 - toto - DEBUG - No availability
+2021-05-20 16:24:19,162 - toto - DEBUG - No availability
+2021-05-20 16:25:19,376 - toto - DEBUG - No availability
+2021-05-20 16:26:19,598 - toto - DEBUG - No availability
+2021-05-20 16:27:19,836 - toto - DEBUG - No availability
+2021-05-20 16:28:20,063 - toto - DEBUG - No availability
+2021-05-20 16:29:20,305 - toto - DEBUG - No availability
+2021-05-20 16:30:20,476 - toto - DEBUG - No availability
+2021-05-20 16:31:20,694 - toto - DEBUG - No availability
+2021-05-20 16:32:20,922 - toto - DEBUG - No availability
+2021-05-20 16:33:21,111 - toto - DEBUG - No availability
+2021-05-20 16:34:21,285 - toto - DEBUG - No availability
+2021-05-20 16:35:21,505 - toto - DEBUG - No availability
+2021-05-20 16:36:21,706 - toto - DEBUG - No availability
+2021-05-20 16:37:21,905 - toto - DEBUG - No availability
+2021-05-20 16:38:22,098 - toto - DEBUG - No availability
+2021-05-20 16:39:22,290 - toto - DEBUG - No availability
+2021-05-20 16:40:22,630 - toto - DEBUG - No availability
+2021-05-20 16:41:22,841 - toto - DEBUG - No availability
+2021-05-20 16:42:23,050 - toto - DEBUG - No availability
+2021-05-20 16:43:23,237 - toto - DEBUG - No availability
+2021-05-20 16:44:23,446 - toto - DEBUG - No availability
+2021-05-20 16:45:23,670 - toto - DEBUG - No availability
+2021-05-20 16:46:23,879 - toto - DEBUG - No availability
+2021-05-20 16:46:34,633 - toto - DEBUG - Outside of methods
+2021-05-20 16:46:34,766 - toto - DEBUG - No availability
+2021-05-20 16:47:34,951 - toto - DEBUG - No availability
+2021-05-20 16:48:35,147 - toto - DEBUG - No availability
+2021-05-20 16:49:35,358 - toto - DEBUG - No availability
+2021-05-20 16:50:35,532 - toto - DEBUG - No availability
+2021-05-20 16:51:35,715 - toto - DEBUG - No availability
+2021-05-20 16:52:35,939 - toto - DEBUG - No availability
+2021-05-20 16:53:36,135 - toto - DEBUG - No availability
+2021-05-20 16:54:36,414 - toto - DEBUG - No availability
+2021-05-20 16:55:36,621 - toto - DEBUG - No availability
+2021-05-20 16:56:36,801 - toto - DEBUG - No availability
+2021-05-20 16:57:36,978 - toto - DEBUG - No availability
+2021-05-20 16:57:58,683 - toto - DEBUG - Outside of methods
+2021-05-20 16:57:58,805 - toto - DEBUG - No availability
+2021-05-20 16:58:08,968 - toto - DEBUG - No availability
+2021-05-20 16:58:19,203 - toto - DEBUG - No availability
+2021-05-20 16:58:28,918 - toto - DEBUG - Outside of methods
+2021-05-20 16:58:29,082 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 17:28:39,421 - toto - DEBUG - Outside of methods
+2021-05-20 17:28:39,624 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 17:29:34,414 - toto - DEBUG - Outside of methods
+2021-05-20 17:29:34,578 - toto - DEBUG - {452001: '20-05-2021'}
+2021-05-20 17:30:57,394 - toto - DEBUG - Outside of methods
+2021-05-20 17:30:57,628 - toto - DEBUG - No availability
+2021-05-20 17:31:57,773 - toto - DEBUG - No availability
+2021-05-20 17:32:57,958 - toto - DEBUG - No availability
+2021-05-20 17:33:58,169 - toto - DEBUG - No availability
+2021-05-20 17:34:58,371 - toto - DEBUG - No availability
+2021-05-20 17:35:58,558 - toto - DEBUG - No availability
+2021-05-20 17:36:58,834 - toto - DEBUG - No availability
+2021-05-20 17:37:59,050 - toto - DEBUG - No availability
+2021-05-20 17:38:59,258 - toto - DEBUG - No availability
+2021-05-20 17:39:59,403 - toto - DEBUG - No availability
+2021-05-20 17:40:59,763 - toto - DEBUG - No availability
+2021-05-20 17:41:59,945 - toto - DEBUG - No availability
+2021-05-20 17:43:00,140 - toto - DEBUG - No availability
+2021-05-20 17:44:00,328 - toto - DEBUG - No availability
+2021-05-20 17:45:00,503 - toto - DEBUG - No availability
+2021-05-20 17:46:00,712 - toto - DEBUG - No availability
+2021-05-20 17:47:01,011 - toto - DEBUG - No availability
+2021-05-20 17:48:01,232 - toto - DEBUG - No availability
+2021-05-20 17:49:01,604 - toto - DEBUG - No availability
+2021-05-20 17:50:02,185 - toto - DEBUG - No availability
+2021-05-20 17:51:02,735 - toto - DEBUG - No availability
+2021-05-20 17:52:03,658 - toto - DEBUG - No availability
+2021-05-20 17:53:04,134 - toto - DEBUG - No availability
+2021-05-20 17:54:05,106 - toto - DEBUG - No availability
+2021-05-20 17:55:05,397 - toto - DEBUG - No availability
+2021-05-20 17:56:05,644 - toto - DEBUG - No availability
+2021-05-20 17:57:05,822 - toto - DEBUG - No availability
+2021-05-20 17:58:06,375 - toto - DEBUG - No availability
+2021-05-20 17:59:06,614 - toto - DEBUG - No availability
+2021-05-20 18:00:06,824 - toto - DEBUG - No availability
+2021-05-20 18:01:07,048 - toto - DEBUG - No availability
+2021-05-20 18:02:07,246 - toto - DEBUG - No availability
+2021-05-20 18:03:07,499 - toto - DEBUG - No availability
+2021-05-20 18:04:07,718 - toto - DEBUG - No availability
+2021-05-20 18:05:07,929 - toto - DEBUG - No availability
+2021-05-20 18:06:08,140 - toto - DEBUG - No availability
+2021-05-20 18:07:08,366 - toto - DEBUG - No availability
+2021-05-20 18:08:08,665 - toto - DEBUG - No availability
+2021-05-20 18:09:08,984 - toto - DEBUG - No availability
+2021-05-20 18:10:09,137 - toto - DEBUG - {452016: '21-05-2021'}
+2021-05-20 18:12:01,014 - toto - DEBUG - No availability
+2021-05-20 18:13:01,187 - toto - DEBUG - {452002: '21-05-2021'}
+2021-05-20 18:15:00,915 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:16:14,367 - toto - DEBUG - Outside of methods
+2021-05-20 18:16:14,605 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452003: '21-05-2021'}
+2021-05-20 18:16:41,588 - toto - DEBUG - Outside of methods
+2021-05-20 18:16:41,822 - toto - DEBUG - {452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:16:46,972 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:16:52,133 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:16:57,302 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:02,475 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:07,631 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:12,775 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:17,931 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:23,098 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:28,253 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:33,445 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:38,590 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:43,723 - toto - DEBUG - {452007: '21-05-2021', 452001: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:48,862 - toto - DEBUG - {452009: '21-05-2021', 452007: '21-05-2021', 452006: '21-05-2021'}
+2021-05-20 18:17:54,048 - toto - DEBUG - {452009: '21-05-2021', 452007: '21-05-2021', 452006: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:17:59,186 - toto - DEBUG - {452009: '21-05-2021', 452007: '21-05-2021', 452006: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:18:04,315 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:09,619 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:14,747 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:19,899 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:25,044 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:30,233 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:35,393 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:40,523 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:45,762 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:50,907 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:18:56,113 - toto - DEBUG - {452006: '21-05-2021'}
+2021-05-20 18:19:01,272 - toto - DEBUG - No availability
+2021-05-20 18:19:06,399 - toto - DEBUG - No availability
+2021-05-20 18:19:11,567 - toto - DEBUG - No availability
+2021-05-20 18:19:16,711 - toto - DEBUG - No availability
+2021-05-20 18:19:21,896 - toto - DEBUG - No availability
+2021-05-20 18:19:27,065 - toto - DEBUG - No availability
+2021-05-20 18:19:32,192 - toto - DEBUG - No availability
+2021-05-20 18:19:37,422 - toto - DEBUG - No availability
+2021-05-20 18:19:42,576 - toto - DEBUG - No availability
+2021-05-20 18:19:47,727 - toto - DEBUG - No availability
+2021-05-20 18:19:52,916 - toto - DEBUG - No availability
+2021-05-20 18:19:58,082 - toto - DEBUG - No availability
+2021-05-20 18:20:03,362 - toto - DEBUG - No availability
+2021-05-20 18:20:08,505 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:13,669 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:18,898 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:24,155 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:29,345 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:34,474 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:39,912 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:45,124 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:50,295 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:20:55,456 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:21:00,605 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:21:05,727 - toto - DEBUG - {452001: '21-05-2021', 452009: '21-05-2021', 452014: '21-05-2021'}
+2021-05-20 18:21:10,922 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:16,086 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:21,251 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:26,429 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:31,613 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:36,727 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:41,876 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:47,026 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:52,188 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:21:57,338 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:22:02,524 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:22:07,730 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:22:12,889 - toto - DEBUG - {452002: '21-05-2021', 452001: '21-05-2021'}
+2021-05-20 18:22:18,090 - toto - DEBUG - {452002: '20-05-2021', 452001: '21-05-2021', 452012: '21-05-2021', 452007: '21-05-2021'}
+2021-05-20 18:22:23,244 - toto - DEBUG - {452002: '20-05-2021', 452001: '21-05-2021', 452012: '21-05-2021', 452007: '21-05-2021'}
+2021-05-20 18:22:30,373 - toto - DEBUG - Outside of methods
+2021-05-20 18:22:30,520 - toto - DEBUG - {452001: '21-05-2021 count 187', 452012: '21-05-2021 count 200', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 137'}
+2021-05-20 18:22:35,681 - toto - DEBUG - {452002: '20-05-2021 count 1', 452001: '21-05-2021 count 1', 452012: '21-05-2021 count 198', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 132'}
+2021-05-20 18:22:40,860 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:22:46,024 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:22:51,176 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:22:56,314 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:01,504 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:06,869 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:12,001 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:17,193 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:22,355 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:27,509 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:32,649 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452014: '21-05-2021 count 1', 452012: '21-05-2021 count 185', 452006: '21-05-2021 count 1', 452007: '21-05-2021 count 87'}
+2021-05-20 18:23:37,791 - toto - DEBUG - {452011: '21-05-2021 count 185', 452007: '21-05-2021 count 1'}
+2021-05-20 18:23:42,939 - toto - DEBUG - {452003: '21-05-2021 count 1', 452011: '21-05-2021 count 175'}
+2021-05-20 18:23:48,096 - toto - DEBUG - {452001: '21-05-2021 count 200', 452011: '21-05-2021 count 165'}
+2021-05-20 18:23:53,310 - toto - DEBUG - {452016: '21-05-2021 count 2', 452001: '21-05-2021 count 197', 452011: '21-05-2021 count 132'}
+2021-05-20 18:23:58,455 - toto - DEBUG - {452016: '21-05-2021 count 2', 452001: '21-05-2021 count 1', 452011: '21-05-2021 count 4', 452009: '21-05-2021 count 1'}
+2021-05-20 18:24:03,603 - toto - DEBUG - {452001: '21-05-2021 count 1'}
+2021-05-20 18:24:08,761 - toto - DEBUG - No availability
+2021-05-20 18:24:13,959 - toto - DEBUG - No availability
+2021-05-20 18:24:19,104 - toto - DEBUG - No availability
+2021-05-20 18:24:24,247 - toto - DEBUG - No availability
+2021-05-20 18:24:29,390 - toto - DEBUG - No availability
+2021-05-20 18:24:34,565 - toto - DEBUG - No availability
+2021-05-20 18:24:39,735 - toto - DEBUG - No availability
+2021-05-20 18:24:44,962 - toto - DEBUG - No availability
+2021-05-20 18:24:50,092 - toto - DEBUG - No availability
+2021-05-20 18:24:55,274 - toto - DEBUG - No availability
+2021-05-20 18:25:00,414 - toto - DEBUG - No availability
+2021-05-20 18:25:05,570 - toto - DEBUG - No availability
+2021-05-20 18:25:10,762 - toto - DEBUG - {452010: '21-05-2021 count 196', 452001: '21-05-2021 count 1', 452007: '21-05-2021 count 2'}
+2021-05-20 18:25:15,910 - toto - DEBUG - {452010: '21-05-2021 count 192', 452001: '21-05-2021 count 1', 452007: '21-05-2021 count 1', 452014: '21-05-2021 count 1'}
+2021-05-20 18:25:21,065 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:26,232 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:31,376 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:36,626 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:41,808 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:46,921 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:52,085 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:25:57,305 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:26:02,482 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:26:07,612 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:26:12,811 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:26:17,962 - toto - DEBUG - {452014: '21-05-2021 count 1', 452010: '21-05-2021 count 184', 452001: '21-05-2021 count 1'}
+2021-05-20 18:26:23,096 - toto - DEBUG - {452001: '21-05-2021 count 1', 452002: '21-05-2021 count 1', 452010: '21-05-2021 count 1', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:28,237 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:33,389 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:38,647 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:43,802 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:48,950 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:54,143 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:26:59,287 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:27:04,430 - toto - DEBUG - {452001: '21-05-2021 count 200', 452006: '21-05-2021 count 1'}
+2021-05-20 18:27:09,620 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:14,766 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:20,079 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:25,275 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:30,536 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:35,684 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:40,825 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:45,964 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:51,184 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:27:56,333 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:28:01,512 - toto - DEBUG - {452009: '21-05-2021 count 4'}
+2021-05-20 18:28:06,653 - toto - DEBUG - {452001: '21-05-2021 count 1'}
+2021-05-20 18:28:11,778 - toto - DEBUG - {452001: '21-05-2021 count 140'}
+2021-05-20 18:28:16,920 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:22,088 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:27,234 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:32,390 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:37,544 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:42,680 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:47,860 - toto - DEBUG - {452001: '21-05-2021 count 90'}
+2021-05-20 18:28:52,998 - toto - DEBUG - {452011: '21-05-2021 count 200', 452010: '21-05-2021 count 200'}
+2021-05-20 18:28:58,129 - toto - DEBUG - {452011: '21-05-2021 count 200', 452010: '21-05-2021 count 200'}
+2021-05-20 18:29:03,297 - toto - DEBUG - {452011: '21-05-2021 count 200', 452010: '21-05-2021 count 200'}
+2021-05-20 18:29:08,452 - toto - DEBUG - {452011: '21-05-2021 count 200', 452010: '21-05-2021 count 200'}
+2021-05-20 18:29:15,356 - toto - DEBUG - Outside of methods
+2021-05-20 18:29:15,507 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:20,705 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:25,859 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:31,036 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:36,179 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:41,343 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:46,486 - toto - DEBUG - {452011: '200 slots for 21-05-2021 center Community Hall Jagjivan Ram', 452010: '200 slots for 21-05-2021 center K.K. College'}
+2021-05-20 18:29:51,662 - toto - DEBUG - {452001: '200 slots for 21-05-2021 center MGM MC', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '187 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '171 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)', 452002: '1 slots for 21-05-2021 center Mahaveer Bhawan'}
+2021-05-20 18:29:56,827 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:02,029 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:07,147 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:12,306 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:17,497 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:22,646 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:27,798 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:33,025 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:38,198 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:43,347 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:48,492 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:53,634 - toto - DEBUG - {452001: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 06', 452007: '1 slots for 21-05-2021 center GOVT RAJAT JAYANTI SCHOOL', 452010: '180 slots for 21-05-2021 center Shri Guruji Seva Nyas', 452003: '164 slots for 21-05-2021 center Pink Flower School', 452006: '1 slots for 21-05-2021 center 15 BATALLION NEW (18-44)'}
+2021-05-20 18:30:58,810 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:03,992 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:09,134 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:14,267 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:19,408 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:24,562 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:29,721 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:34,868 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:40,004 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:45,158 - toto - DEBUG - {452009: '1 slots for 21-05-2021 center NAGAR NIGAM ZONE 14', 452018: '200 slots for 21-05-2021 center Mahaveer Nagar(Tilak Nagar)', 452020: '200 slots for 21-05-2021 center Queens Collage', 452016: '167 slots for 21-05-2021 center Karnataka School', 452012: '1 slots for 21-05-2021 center Tarun Manch Madhav Vidyapeeth'}
+2021-05-20 18:31:50,761 - toto - DEBUG - Outside of methods
+2021-05-20 18:31:50,916 - toto - DEBUG - {452009: '1 slots at center NAGAR NIGAM ZONE 14 for 21-05-2021', 452018: '200 slots at center Mahaveer Nagar(Tilak Nagar) for 21-05-2021', 452020: '200 slots at center Queens Collage for 21-05-2021', 452016: '167 slots at center Karnataka School for 21-05-2021', 452012: '1 slots at center Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:31:56,058 - toto - DEBUG - {452009: '1 slots at center NAGAR NIGAM ZONE 14 for 21-05-2021', 452018: '200 slots at center Mahaveer Nagar(Tilak Nagar) for 21-05-2021', 452020: '200 slots at center Queens Collage for 21-05-2021', 452016: '167 slots at center Karnataka School for 21-05-2021', 452012: '1 slots at center Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:32:01,211 - toto - DEBUG - {452010: '1 slots at center NAGAR NIGAM ZONE 05 for 20-05-2021', 452001: '200 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:06,365 - toto - DEBUG - {452010: '1 slots at center NAGAR NIGAM ZONE 05 for 20-05-2021', 452001: '199 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:11,512 - toto - DEBUG - {452010: '1 slots at center NAGAR NIGAM ZONE 05 for 20-05-2021', 452001: '198 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:16,648 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:21,804 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:26,966 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:32,101 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:37,255 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:42,391 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:47,536 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:52,852 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:32:57,976 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:33:03,149 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:33:08,289 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:33:13,458 - toto - DEBUG - {452001: '135 slots at center Jeenat Public School for 21-05-2021'}
+2021-05-20 18:33:18,602 - toto - DEBUG - No availability
+2021-05-20 18:33:23,803 - toto - DEBUG - {452010: '1 slots at center NAGAR NIGAM ZONE 05 for 21-05-2021', 452001: '1 slots at center Jeenat Public School for 21-05-2021', 452020: '198 slots at center GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 18:33:28,935 - toto - DEBUG - No availability
+2021-05-20 18:33:34,119 - toto - DEBUG - No availability
+2021-05-20 18:33:39,268 - toto - DEBUG - {452002: '1 slots at center NAGAR NIGAM ZONE 02 for 21-05-2021', 452001: '297 slots at center Swami Pritamdas Sabhagrah for 21-05-2021', 452020: '196 slots at center GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452007: '1 slots at center Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:33:44,405 - toto - DEBUG - No availability
+2021-05-20 18:33:49,593 - toto - DEBUG - No availability
+2021-05-20 18:33:54,767 - toto - DEBUG - No availability
+2021-05-20 18:34:01,158 - toto - DEBUG - Outside of methods
+2021-05-20 18:34:01,386 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:06,537 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:11,679 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:16,828 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:21,966 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:27,099 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:32,256 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:37,470 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:42,612 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:47,785 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:52,959 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452011: '1 Community Hall Jagjivan Ram for 21-05-2021', 452003: '1 NAGAR NIGAM ZONE 17 for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '174 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452014: '1 NAGAR NIGAM ZONE 03 for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021', 452002: '1 Mahaveer Bhawan for 21-05-2021'}
+2021-05-20 18:34:58,083 - toto - DEBUG - {452001: '1 Govt. School Sangam Nagar for 21-05-2021'}
+2021-05-20 18:35:03,286 - toto - DEBUG - No availability
+2021-05-20 18:35:08,422 - toto - DEBUG - No availability
+2021-05-20 18:35:13,582 - toto - DEBUG - No availability
+2021-05-20 18:35:18,806 - toto - DEBUG - No availability
+2021-05-20 18:35:24,192 - toto - DEBUG - No availability
+2021-05-20 18:35:29,378 - toto - DEBUG - No availability
+2021-05-20 18:35:34,595 - toto - DEBUG - No availability
+2021-05-20 18:35:40,109 - toto - DEBUG - No availability
+2021-05-20 18:35:45,243 - toto - DEBUG - No availability
+2021-05-20 18:35:50,400 - toto - DEBUG - No availability
+2021-05-20 18:35:55,545 - toto - DEBUG - No availability
+2021-05-20 18:36:00,703 - toto - DEBUG - No availability
+2021-05-20 18:36:05,847 - toto - DEBUG - No availability
+2021-05-20 18:36:11,023 - toto - DEBUG - No availability
+2021-05-20 18:36:16,169 - toto - DEBUG - No availability
+2021-05-20 18:36:21,318 - toto - DEBUG - No availability
+2021-05-20 18:36:26,473 - toto - DEBUG - {452002: '1 NAGAR NIGAM ZONE 02 for 21-05-2021', 452001: '200 FREE PRESS for 21-05-2021'}
+2021-05-20 18:36:31,619 - toto - DEBUG - {452001: '199 FREE PRESS for 21-05-2021'}
+2021-05-20 18:36:36,741 - toto - DEBUG - {452001: '196 FREE PRESS for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:36:41,890 - toto - DEBUG - {452001: '162 FREE PRESS for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:36:47,028 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:36:52,165 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:36:57,317 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:02,449 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:07,656 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:12,818 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:17,983 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:23,159 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:28,386 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:33,546 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:38,704 - toto - DEBUG - {452001: '125 FREE PRESS for 21-05-2021', 452009: '1 Lokmanya Vidhya Niketan for 21-05-2021', 452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:37:43,874 - toto - DEBUG - {452001: '1 Swami Pritamdas Sabhagrah for 21-05-2021'}
+2021-05-20 18:37:49,052 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:37:54,200 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:37:59,327 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:04,483 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:09,628 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:14,786 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:19,955 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:25,168 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:30,393 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:35,535 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:40,694 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:45,874 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:38:51,015 - toto - DEBUG - No availability
+2021-05-20 18:38:56,150 - toto - DEBUG - No availability
+2021-05-20 18:39:01,308 - toto - DEBUG - No availability
+2021-05-20 18:39:06,567 - toto - DEBUG - No availability
+2021-05-20 18:39:11,766 - toto - DEBUG - No availability
+2021-05-20 18:39:16,927 - toto - DEBUG - No availability
+2021-05-20 18:39:22,071 - toto - DEBUG - No availability
+2021-05-20 18:39:27,295 - toto - DEBUG - No availability
+2021-05-20 18:39:32,453 - toto - DEBUG - No availability
+2021-05-20 18:39:37,623 - toto - DEBUG - No availability
+2021-05-20 18:39:43,840 - toto - DEBUG - No availability
+2021-05-20 18:39:48,982 - toto - DEBUG - No availability
+2021-05-20 18:40:04,177 - toto - DEBUG - No availability
+2021-05-20 18:40:09,374 - toto - DEBUG - No availability
+2021-05-20 18:40:14,518 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:19,660 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:24,857 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:30,018 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:35,156 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:40,375 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:45,513 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:50,678 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:40:55,861 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:41:01,004 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 18:41:06,171 - toto - DEBUG - {452001: '2 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:11,352 - toto - DEBUG - {452001: '2 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:16,540 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:21,683 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:26,838 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:32,019 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:37,223 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:42,358 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:47,513 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:52,677 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:41:57,818 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:42:02,978 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:42:08,123 - toto - DEBUG - {452001: '1 MGM MC for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:42:13,257 - toto - DEBUG - No availability
+2021-05-20 18:42:18,406 - toto - DEBUG - No availability
+2021-05-20 18:42:23,558 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:28,702 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:33,831 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:38,983 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:44,162 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:49,297 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:54,453 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:42:59,695 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:43:04,855 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:43:09,998 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:43:15,147 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:43:20,315 - toto - DEBUG - {452001: '100 DURGA BHAWAN for 21-05-2021'}
+2021-05-20 18:43:25,432 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 20-05-2021', 452010: '180 Gyan Jyoti School for 21-05-2021', 452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:30,573 - toto - DEBUG - {452010: '171 Gyan Jyoti School for 21-05-2021', 452001: '143 Maa Everfresh for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:35,696 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:40,891 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:46,035 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:51,165 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:43:56,318 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:01,474 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:06,694 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:11,817 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:17,053 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:22,193 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:27,349 - toto - DEBUG - {452001: '139 Maa Everfresh for 21-05-2021', 452010: '164 Gyan Jyoti School for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 18:44:32,484 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021', 452011: '1 PASHUPATI NATH MANDIR for 21-05-2021'}
+2021-05-20 18:44:37,667 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:44:42,790 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:44:47,928 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:44:53,114 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:44:58,236 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:03,386 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:08,550 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:13,764 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:19,012 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:24,150 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:29,346 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:34,545 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021', 452005: '200 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:45:39,942 - toto - DEBUG - {452016: '2 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '225 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:45:45,093 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:45:50,257 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:45:55,396 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:00,536 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:05,674 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:10,888 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:16,058 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:21,210 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:26,413 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:31,554 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:36,707 - toto - DEBUG - {452016: '1 NAGAR NIGAM ZONE 19 for 21-05-2021', 452001: '1 NAGAR NIGAM ZONE 06 for 21-05-2021', 452007: '1 GOVT RAJAT JAYANTI SCHOOL for 21-05-2021', 452020: '2 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021', 452009: '224 Usha Raje Parisar for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 18:46:41,890 - toto - DEBUG - {452010: '1 NAGAR NIGAM ZONE 05 for 21-05-2021', 452001: '66 Amardas Hall Near Choithram for 21-05-2021', 452020: '1 Queens Collage for 21-05-2021'}
+2021-05-20 18:46:47,046 - toto - DEBUG - {452001: '38 Amardas Hall Near Choithram for 21-05-2021'}
+2021-05-20 18:46:52,204 - toto - DEBUG - No availability
+2021-05-20 18:46:57,348 - toto - DEBUG - No availability
+2021-05-20 18:47:02,489 - toto - DEBUG - No availability
+2021-05-20 18:47:07,660 - toto - DEBUG - No availability
+2021-05-20 18:47:12,854 - toto - DEBUG - No availability
+2021-05-20 18:47:18,025 - toto - DEBUG - No availability
+2021-05-20 18:47:23,173 - toto - DEBUG - No availability
+2021-05-20 18:47:28,320 - toto - DEBUG - No availability
+2021-05-20 18:47:33,459 - toto - DEBUG - No availability
+2021-05-20 18:47:38,645 - toto - DEBUG - No availability
+2021-05-20 18:47:43,795 - toto - DEBUG - No availability
+2021-05-20 18:47:48,969 - toto - DEBUG - No availability
+2021-05-20 18:47:54,102 - toto - DEBUG - No availability
+2021-05-20 18:47:59,252 - toto - DEBUG - No availability
+2021-05-20 18:48:04,470 - toto - DEBUG - No availability
+2021-05-20 18:48:09,601 - toto - DEBUG - No availability
+2021-05-20 18:48:14,800 - toto - DEBUG - No availability
+2021-05-20 18:48:19,930 - toto - DEBUG - No availability
+2021-05-20 18:48:25,108 - toto - DEBUG - No availability
+2021-05-20 18:48:30,301 - toto - DEBUG - No availability
+2021-05-20 18:48:35,419 - toto - DEBUG - No availability
+2021-05-20 18:48:40,576 - toto - DEBUG - No availability
+2021-05-20 18:48:45,724 - toto - DEBUG - No availability
+2021-05-20 18:48:50,868 - toto - DEBUG - No availability
+2021-05-20 18:48:56,015 - toto - DEBUG - No availability
+2021-05-20 18:49:01,190 - toto - DEBUG - No availability
+2021-05-20 18:49:06,435 - toto - DEBUG - No availability
+2021-05-20 18:49:11,579 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 07 for 21-05-2021'}
+2021-05-20 18:49:16,703 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:21,854 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:26,990 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:32,133 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:37,282 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:42,445 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:47,623 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:52,758 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:49:57,957 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:50:03,195 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:50:08,347 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:50:13,507 - toto - DEBUG - No availability
+2021-05-20 18:50:18,654 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:23,818 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:28,963 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:34,091 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:39,246 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:44,376 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:49,513 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:54,700 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:50:59,887 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:51:05,055 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:51:10,204 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:51:15,372 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021'}
+2021-05-20 18:51:20,563 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:25,739 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:30,877 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:35,992 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:41,135 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:46,321 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:51,471 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:51:56,614 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:52:01,747 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:52:06,921 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:52:12,056 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:52:17,210 - toto - DEBUG - {452001: '1 Guru Dwara Data Bandi Chhoad for 21-05-2021'}
+2021-05-20 18:52:22,363 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021', 452001: '100 Suruchi Garden for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021'}
+2021-05-20 18:52:27,518 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021', 452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:32,670 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:37,877 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:43,016 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:48,178 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:53,307 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:52:58,498 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:03,645 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:08,809 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:13,964 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:19,087 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:24,295 - toto - DEBUG - {452001: '100 Suruchi Garden for 21-05-2021'}
+2021-05-20 18:53:29,451 - toto - DEBUG - {452001: '1 NAGAR NIGAM ZONE 09 for 21-05-2021'}
+2021-05-20 18:53:34,625 - toto - DEBUG - No availability
+2021-05-20 18:53:39,749 - toto - DEBUG - No availability
+2021-05-20 18:53:44,933 - toto - DEBUG - No availability
+2021-05-20 18:53:50,140 - toto - DEBUG - No availability
+2021-05-20 18:53:55,298 - toto - DEBUG - No availability
+2021-05-20 18:54:00,471 - toto - DEBUG - No availability
+2021-05-20 18:54:05,686 - toto - DEBUG - No availability
+2021-05-20 18:54:10,888 - toto - DEBUG - No availability
+2021-05-20 18:54:16,047 - toto - DEBUG - No availability
+2021-05-20 18:54:21,185 - toto - DEBUG - No availability
+2021-05-20 18:54:26,325 - toto - DEBUG - No availability
+2021-05-20 18:54:31,514 - toto - DEBUG - No availability
+2021-05-20 18:54:36,662 - toto - DEBUG - {452001: '1 Shree Keshav Vidhyalaya for 21-05-2021'}
+2021-05-20 18:54:41,810 - toto - DEBUG - No availability
+2021-05-20 18:54:47,010 - toto - DEBUG - No availability
+2021-05-20 18:54:52,198 - toto - DEBUG - No availability
+2021-05-20 18:54:57,335 - toto - DEBUG - No availability
+2021-05-20 18:55:02,492 - toto - DEBUG - No availability
+2021-05-20 18:55:07,644 - toto - DEBUG - No availability
+2021-05-20 18:55:12,773 - toto - DEBUG - No availability
+2021-05-20 18:55:17,919 - toto - DEBUG - No availability
+2021-05-20 18:55:23,178 - toto - DEBUG - No availability
+2021-05-20 18:55:28,307 - toto - DEBUG - No availability
+2021-05-20 18:55:33,460 - toto - DEBUG - No availability
+2021-05-20 18:55:38,631 - toto - DEBUG - No availability
+2021-05-20 18:55:43,819 - toto - DEBUG - {452001: '1 Anganwadi Kendra Nadiya Nagar for 21-05-2021', 452009: '199 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021', 452012: '1 Tarun Manch Madhav Vidyapeeth for 21-05-2021'}
+2021-05-20 18:55:49,074 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:55:54,203 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:55:59,403 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:04,578 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:09,739 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:14,943 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:20,158 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:25,336 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:30,500 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:35,662 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:40,968 - toto - DEBUG - {452001: '1 BASANT VIHAR PANI KI Tanki for 21-05-2021', 452009: '196 SINDHU BHAWAN for 21-05-2021', 452005: '1 Narsingh Vatika for 21-05-2021', 452016: '1 Karnataka School for 21-05-2021'}
+2021-05-20 18:56:46,131 - toto - DEBUG - No availability
+2021-05-20 18:56:51,323 - toto - DEBUG - {452001: '1 Jeenat Public School for 21-05-2021'}
+2021-05-20 18:56:56,482 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:01,667 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:06,841 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:12,015 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:17,265 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:22,473 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:27,653 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:32,805 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:38,000 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:43,158 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:48,307 - toto - DEBUG - {452001: '1 CITY STAR CONVENT SCHOOL for 21-05-2021'}
+2021-05-20 18:57:53,448 - toto - DEBUG - No availability
+2021-05-20 18:57:58,659 - toto - DEBUG - {452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 18:58:03,830 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01 for 21-05-2021'}
+2021-05-20 18:58:08,993 - toto - DEBUG - No availability
+2021-05-20 18:58:14,149 - toto - DEBUG - No availability
+2021-05-20 18:58:19,303 - toto - DEBUG - No availability
+2021-05-20 18:58:24,477 - toto - DEBUG - No availability
+2021-05-20 18:58:29,667 - toto - DEBUG - No availability
+2021-05-20 18:58:34,818 - toto - DEBUG - No availability
+2021-05-20 18:58:39,988 - toto - DEBUG - No availability
+2021-05-20 18:58:45,130 - toto - DEBUG - No availability
+2021-05-20 18:58:50,269 - toto - DEBUG - No availability
+2021-05-20 18:58:55,450 - toto - DEBUG - No availability
+2021-05-20 18:59:00,749 - toto - DEBUG - No availability
+2021-05-20 18:59:05,898 - toto - DEBUG - No availability
+2021-05-20 18:59:11,102 - toto - DEBUG - No availability
+2021-05-20 18:59:16,243 - toto - DEBUG - No availability
+2021-05-20 18:59:21,390 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 18:59:26,630 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:31,769 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:36,902 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:42,055 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:47,180 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:52,344 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 18:59:57,505 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:02,680 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:07,975 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:13,143 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:18,388 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:23,637 - toto - DEBUG - {452007: '1 1 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:00:28,790 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 16 for 21-05-2021'}
+2021-05-20 19:00:33,975 - toto - DEBUG - {452001: '1 Career Acadmy for 21-05-2021'}
+2021-05-20 19:00:39,149 - toto - DEBUG - No availability
+2021-05-20 19:00:44,389 - toto - DEBUG - No availability
+2021-05-20 19:00:49,587 - toto - DEBUG - No availability
+2021-05-20 19:00:54,761 - toto - DEBUG - No availability
+2021-05-20 19:00:59,960 - toto - DEBUG - No availability
+2021-05-20 19:01:05,125 - toto - DEBUG - No availability
+2021-05-20 19:01:10,346 - toto - DEBUG - No availability
+2021-05-20 19:01:15,552 - toto - DEBUG - No availability
+2021-05-20 19:01:20,737 - toto - DEBUG - No availability
+2021-05-20 19:01:25,901 - toto - DEBUG - No availability
+2021-05-20 19:01:31,110 - toto - DEBUG - No availability
+2021-05-20 19:01:36,276 - toto - DEBUG - No availability
+2021-05-20 19:01:41,455 - toto - DEBUG - {452020: '1 Queens Collage for 21-05-2021'}
+2021-05-20 19:01:46,614 - toto - DEBUG - No availability
+2021-05-20 19:01:51,826 - toto - DEBUG - No availability
+2021-05-20 19:01:57,045 - toto - DEBUG - {452001: '1 Maa Everfresh for 21-05-2021'}
+2021-05-20 19:02:02,280 - toto - DEBUG - No availability
+2021-05-20 19:02:07,462 - toto - DEBUG - No availability
+2021-05-20 19:02:12,701 - toto - DEBUG - No availability
+2021-05-20 19:02:17,870 - toto - DEBUG - No availability
+2021-05-20 19:02:23,044 - toto - DEBUG - No availability
+2021-05-20 19:02:28,203 - toto - DEBUG - No availability
+2021-05-20 19:02:33,436 - toto - DEBUG - No availability
+2021-05-20 19:02:38,625 - toto - DEBUG - No availability
+2021-05-20 19:02:43,810 - toto - DEBUG - No availability
+2021-05-20 19:02:48,987 - toto - DEBUG - No availability
+2021-05-20 19:02:54,150 - toto - DEBUG - No availability
+2021-05-20 19:02:59,275 - toto - DEBUG - No availability
+2021-05-20 19:03:04,441 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:09,765 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:14,921 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:20,091 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:25,311 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:30,498 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:35,650 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:40,798 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:45,951 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:51,093 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:03:56,295 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:04:01,519 - toto - DEBUG - {452001: '1 Mount Litreza School Khudel for 21-05-2021', 452007: '1 Rathore Samaj Dharmshala for 21-05-2021'}
+2021-05-20 19:04:06,678 - toto - DEBUG - No availability
+2021-05-20 19:04:11,868 - toto - DEBUG - No availability
+2021-05-20 19:04:17,050 - toto - DEBUG - No availability
+2021-05-20 19:04:22,225 - toto - DEBUG - No availability
+2021-05-20 19:04:27,428 - toto - DEBUG - No availability
+2021-05-20 19:04:32,600 - toto - DEBUG - No availability
+2021-05-20 19:04:38,179 - toto - DEBUG - No availability
+2021-05-20 19:04:43,342 - toto - DEBUG - No availability
+2021-05-20 19:04:48,502 - toto - DEBUG - No availability
+2021-05-20 19:04:53,714 - toto - DEBUG - No availability
+2021-05-20 19:04:58,878 - toto - DEBUG - No availability
+2021-05-20 19:05:04,176 - toto - DEBUG - No availability
+2021-05-20 19:05:09,364 - toto - DEBUG - {452001: '1 Swami Pritamdas Sabhagrah for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:14,629 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:19,932 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:25,274 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:30,520 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:35,701 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:41,269 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:46,425 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:51,648 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:05:57,096 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:06:02,306 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:06:07,558 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI for 21-05-2021', 452010: '1 Safed Mandir Pardeshipura for 21-05-2021'}
+2021-05-20 19:06:12,692 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:17,857 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:23,041 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:28,199 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:33,376 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:38,536 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:43,745 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:48,930 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:54,180 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:06:59,355 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:07:04,639 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:07:09,822 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR for 21-05-2021'}
+2021-05-20 19:07:15,014 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021', 452018: '1 Mahaveer Nagar(Tilak Nagar) for 21-05-2021'}
+2021-05-20 19:07:20,204 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:25,405 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:30,607 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:35,820 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:40,986 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:46,527 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:51,704 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:07:56,894 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:08:02,157 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:08:07,315 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:08:12,504 - toto - DEBUG - {452001: '1 Atal Bihari Vajpai GovtCOLLAGE for 21-05-2021'}
+2021-05-20 19:08:17,664 - toto - DEBUG - {452010: '1 K.K. College for 21-05-2021', 452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:22,903 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:28,113 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:33,374 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:38,551 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:43,784 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:48,960 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:54,230 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:08:59,395 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:09:04,573 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:09:09,876 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:09:15,112 - toto - DEBUG - {452006: '1 15 BATALLION NEW (18-44) for 21-05-2021'}
+2021-05-20 19:09:20,262 - toto - DEBUG - {452009: '1 Usha Raje Parisar for 21-05-2021'}
+2021-05-20 19:09:25,564 - toto - DEBUG - No availability
+2021-05-20 19:09:30,741 - toto - DEBUG - No availability
+2021-05-20 19:09:35,922 - toto - DEBUG - No availability
+2021-05-20 19:09:41,107 - toto - DEBUG - No availability
+2021-05-20 19:09:46,397 - toto - DEBUG - No availability
+2021-05-20 19:09:51,571 - toto - DEBUG - No availability
+2021-05-20 19:09:56,761 - toto - DEBUG - No availability
+2021-05-20 19:10:01,982 - toto - DEBUG - No availability
+2021-05-20 19:10:07,162 - toto - DEBUG - No availability
+2021-05-20 19:10:12,300 - toto - DEBUG - No availability
+2021-05-20 19:10:17,476 - toto - DEBUG - No availability
+2021-05-20 19:10:22,642 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:27,885 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:33,036 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:38,171 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:43,412 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:48,845 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:54,110 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:10:59,301 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:11:04,497 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:11:09,682 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:11:14,907 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:11:20,117 - toto - DEBUG - {452005: '1 Narsingh Vatika for 21-05-2021', 452001: '1 Mount Litreza School Khudel for 21-05-2021', 452010: '1 NAGAR NIGAM ZONE 08 for 21-05-2021'}
+2021-05-20 19:11:25,296 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:30,555 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:35,736 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:40,907 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:46,190 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:51,424 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:11:56,680 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:12:02,138 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:12:07,429 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:12:12,702 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:12:17,983 - toto - DEBUG - {452001: '1 DWARKA GARDEN for 21-05-2021'}
+2021-05-20 19:12:23,240 - toto - DEBUG - No availability
+2021-05-20 19:12:28,385 - toto - DEBUG - No availability
+2021-05-20 19:12:33,629 - toto - DEBUG - No availability
+2021-05-20 19:12:38,804 - toto - DEBUG - No availability
+2021-05-20 19:12:43,961 - toto - DEBUG - No availability
+2021-05-20 19:12:49,227 - toto - DEBUG - No availability
+2021-05-20 19:12:54,422 - toto - DEBUG - No availability
+2021-05-20 19:13:01,756 - toto - DEBUG - Outside of methods
+2021-05-20 19:13:01,969 - toto - DEBUG - No availability
+2021-05-20 19:13:07,139 - toto - DEBUG - No availability
+2021-05-20 19:13:12,500 - toto - DEBUG - No availability
+2021-05-20 19:13:17,721 - toto - DEBUG - No availability
+2021-05-20 19:13:22,909 - toto - DEBUG - No availability
+2021-05-20 19:13:28,109 - toto - DEBUG - No availability
+2021-05-20 19:13:33,251 - toto - DEBUG - No availability
+2021-05-20 19:13:38,411 - toto - DEBUG - No availability
+2021-05-20 19:13:43,547 - toto - DEBUG - No availability
+2021-05-20 19:13:48,700 - toto - DEBUG - No availability
+2021-05-20 19:13:53,854 - toto - DEBUG - No availability
+2021-05-20 19:13:59,011 - toto - DEBUG - No availability
+2021-05-20 19:14:04,170 - toto - DEBUG - No availability
+2021-05-20 19:14:09,318 - toto - DEBUG - No availability
+2021-05-20 19:14:14,460 - toto - DEBUG - No availability
+2021-05-20 19:14:19,664 - toto - DEBUG - No availability
+2021-05-20 19:14:24,842 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:30,138 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:35,410 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:40,595 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:45,769 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:50,937 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:14:56,103 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:01,268 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:06,562 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:11,926 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:17,117 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:22,261 - toto - DEBUG - {452020: '1 GOVT MIDDLE SCHOOL TEJAJINAGAR'}
+2021-05-20 19:15:27,419 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:32,605 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:37,836 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:42,994 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:48,257 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:53,396 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:15:58,586 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:16:03,758 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:16:09,156 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:16:14,331 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:16:19,612 - toto - DEBUG - {452001: '1 GOVT. SCHOOL AMAR TEKARI'}
+2021-05-20 19:16:24,815 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:29,987 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:35,320 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:40,474 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:45,646 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:50,815 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:16:55,972 - toto - DEBUG - {452016: '1 Karnataka School'}
+2021-05-20 19:17:01,177 - toto - DEBUG - {452016: '1 Karnataka School'}

@@ -1,0 +1,124 @@
+--------------------
+Date: 20:5:2021
+Time: 12:58
+Phone number: +917000323324
+Message: Just testing a code. Please ignore
+--------------------
+Date: 20:5:2021
+Time: 13:3
+Phone number: +917000323324
+Message: Just testing a code. Please ignore
+--------------------
+Date: 20:5:2021
+Time: 13:5
+Phone number: +917000323324
+Message: Just testing a code. Please ignore 3
+--------------------
+Date: 20:5:2021
+Time: 14:2
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:3
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:4
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:4
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:6
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:7
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:9
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:26
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:28
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:29
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 14:32
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 16:59
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 17:29
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 17:30
+Phone number: +917000323324
+Message: Availability
+{452001: '20-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 18:11
+Phone number: +917000323324
+Message: Availability
+{452016: '21-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 18:14
+Phone number: +917000323324
+Message: Availability
+{452002: '21-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 18:16
+Phone number: +917000323324
+Message: Availability
+{452007: '21-05-2021', 452001: '21-05-2021'}
+--------------------
+Date: 20:5:2021
+Time: 18:17
+Phone number: +917000323324
+Message: Availability
+{452001: '21-05-2021', 452009: '21-05-2021', 452003: '21-05-2021'}
+--------------------

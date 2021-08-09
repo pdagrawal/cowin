@@ -1,0 +1,216 @@
+2021-05-23 19:00:53,596 - toto - DEBUG - Outside of methods
+2021-05-23 19:00:53,819 - toto - DEBUG - {452009: '1 Shree Anand School'}
+2021-05-23 19:00:58,967 - toto - DEBUG - {452009: '1 Shree Anand School'}
+2021-05-23 19:01:04,219 - toto - DEBUG - {452009: '1 Shree Anand School'}
+2021-05-23 19:01:09,372 - toto - DEBUG - No availability
+2021-05-23 19:01:14,514 - toto - DEBUG - No availability
+2021-05-23 19:01:19,666 - toto - DEBUG - No availability
+2021-05-23 19:01:24,827 - toto - DEBUG - No availability
+2021-05-23 19:01:30,063 - toto - DEBUG - No availability
+2021-05-23 19:01:35,251 - toto - DEBUG - No availability
+2021-05-23 19:01:40,416 - toto - DEBUG - No availability
+2021-05-23 19:01:45,583 - toto - DEBUG - No availability
+2021-05-23 19:01:50,711 - toto - DEBUG - No availability
+2021-05-23 19:01:55,879 - toto - DEBUG - No availability
+2021-05-23 19:02:01,008 - toto - DEBUG - No availability
+2021-05-23 19:02:06,140 - toto - DEBUG - No availability
+2021-05-23 19:02:11,374 - toto - DEBUG - No availability
+2021-05-23 19:02:16,519 - toto - DEBUG - No availability
+2021-05-23 19:02:21,668 - toto - DEBUG - No availability
+2021-05-23 19:02:26,816 - toto - DEBUG - No availability
+2021-05-23 19:02:31,994 - toto - DEBUG - No availability
+2021-05-23 19:02:37,140 - toto - DEBUG - No availability
+2021-05-23 19:02:42,271 - toto - DEBUG - No availability
+2021-05-23 19:02:47,410 - toto - DEBUG - No availability
+2021-05-23 19:02:52,542 - toto - DEBUG - No availability
+2021-05-23 19:02:57,715 - toto - DEBUG - No availability
+2021-05-23 19:03:02,857 - toto - DEBUG - No availability
+2021-05-23 19:03:07,993 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:13,134 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:18,272 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:23,422 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:28,568 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:33,752 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:38,888 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:44,094 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:49,252 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:54,412 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:03:59,566 - toto - DEBUG - {452006: '1 NAGAR NIGAM ZONE 01'}
+2021-05-23 19:04:04,734 - toto - DEBUG - No availability
+2021-05-23 19:04:09,918 - toto - DEBUG - No availability
+2021-05-23 19:04:15,117 - toto - DEBUG - No availability
+2021-05-23 19:04:20,328 - toto - DEBUG - No availability
+2021-05-23 19:04:25,470 - toto - DEBUG - No availability
+2021-05-23 19:04:30,659 - toto - DEBUG - No availability
+2021-05-23 19:04:35,833 - toto - DEBUG - No availability
+2021-05-23 19:04:40,991 - toto - DEBUG - No availability
+2021-05-23 19:04:46,160 - toto - DEBUG - No availability
+2021-05-23 19:04:51,493 - toto - DEBUG - No availability
+2021-05-23 19:04:56,642 - toto - DEBUG - No availability
+2021-05-23 19:05:01,832 - toto - DEBUG - No availability
+2021-05-23 19:05:07,076 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:12,224 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:17,352 - toto - DEBUG - No availability
+2021-05-23 19:05:22,523 - toto - DEBUG - No availability
+2021-05-23 19:05:27,796 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:32,969 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:38,175 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:43,335 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:48,512 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:53,649 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:05:58,798 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:06:03,956 - toto - DEBUG - {452001: '1 ILVA SCHOOL'}
+2021-05-23 19:06:09,103 - toto - DEBUG - No availability
+2021-05-23 19:06:14,242 - toto - DEBUG - No availability
+2021-05-23 19:06:19,472 - toto - DEBUG - No availability
+2021-05-23 19:06:24,617 - toto - DEBUG - No availability
+2021-05-23 19:06:29,791 - toto - DEBUG - No availability
+2021-05-23 19:06:35,043 - toto - DEBUG - No availability
+2021-05-23 19:06:40,189 - toto - DEBUG - No availability
+2021-05-23 19:06:45,331 - toto - DEBUG - No availability
+2021-05-23 19:06:50,493 - toto - DEBUG - No availability
+2021-05-23 19:06:55,640 - toto - DEBUG - No availability
+2021-05-23 19:07:00,805 - toto - DEBUG - No availability
+2021-05-23 19:07:05,963 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:11,161 - toto - DEBUG - No availability
+2021-05-23 19:07:16,265 - toto - DEBUG - No availability
+2021-05-23 19:07:21,390 - toto - DEBUG - No availability
+2021-05-23 19:07:26,536 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:31,737 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:36,870 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:42,045 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:47,218 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:52,404 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:07:57,560 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:08:02,718 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:08:07,885 - toto - DEBUG - No availability
+2021-05-23 19:08:13,008 - toto - DEBUG - No availability
+2021-05-23 19:08:18,196 - toto - DEBUG - No availability
+2021-05-23 19:08:23,359 - toto - DEBUG - No availability
+2021-05-23 19:08:28,518 - toto - DEBUG - No availability
+2021-05-23 19:08:33,689 - toto - DEBUG - No availability
+2021-05-23 19:08:38,816 - toto - DEBUG - No availability
+2021-05-23 19:08:44,002 - toto - DEBUG - No availability
+2021-05-23 19:08:49,186 - toto - DEBUG - No availability
+2021-05-23 19:08:54,345 - toto - DEBUG - No availability
+2021-05-23 19:08:59,485 - toto - DEBUG - No availability
+2021-05-23 19:09:04,655 - toto - DEBUG - No availability
+2021-05-23 19:09:09,802 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:14,986 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:20,221 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:25,346 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:30,615 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:35,756 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:40,945 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:46,076 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:51,213 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:09:56,390 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:10:01,699 - toto - DEBUG - {452018: '1 Mahaveer Nagar(Tilak Nagar)'}
+2021-05-23 19:10:06,872 - toto - DEBUG - No availability
+2021-05-23 19:10:12,044 - toto - DEBUG - No availability
+2021-05-23 19:10:17,193 - toto - DEBUG - No availability
+2021-05-23 19:10:22,484 - toto - DEBUG - No availability
+2021-05-23 19:10:27,770 - toto - DEBUG - No availability
+2021-05-23 19:10:32,926 - toto - DEBUG - No availability
+2021-05-23 19:10:38,118 - toto - DEBUG - No availability
+2021-05-23 19:10:43,312 - toto - DEBUG - No availability
+2021-05-23 19:10:48,471 - toto - DEBUG - No availability
+2021-05-23 19:10:53,616 - toto - DEBUG - No availability
+2021-05-23 19:10:58,786 - toto - DEBUG - No availability
+2021-05-23 19:11:03,933 - toto - DEBUG - No availability
+2021-05-23 19:11:09,114 - toto - DEBUG - No availability
+2021-05-23 19:11:14,283 - toto - DEBUG - No availability
+2021-05-23 19:11:19,416 - toto - DEBUG - No availability
+2021-05-23 19:11:24,647 - toto - DEBUG - No availability
+2021-05-23 19:11:29,810 - toto - DEBUG - No availability
+2021-05-23 19:11:35,012 - toto - DEBUG - No availability
+2021-05-23 19:11:40,183 - toto - DEBUG - No availability
+2021-05-23 19:11:45,347 - toto - DEBUG - No availability
+2021-05-23 19:11:50,491 - toto - DEBUG - No availability
+2021-05-23 19:11:55,658 - toto - DEBUG - No availability
+2021-05-23 19:12:00,796 - toto - DEBUG - No availability
+2021-05-23 19:12:05,940 - toto - DEBUG - No availability
+2021-05-23 19:12:11,103 - toto - DEBUG - No availability
+2021-05-23 19:12:16,269 - toto - DEBUG - No availability
+2021-05-23 19:12:21,411 - toto - DEBUG - No availability
+2021-05-23 19:12:26,564 - toto - DEBUG - No availability
+2021-05-23 19:12:31,756 - toto - DEBUG - No availability
+2021-05-23 19:12:36,911 - toto - DEBUG - No availability
+2021-05-23 19:12:42,055 - toto - DEBUG - No availability
+2021-05-23 19:12:47,217 - toto - DEBUG - No availability
+2021-05-23 19:12:52,354 - toto - DEBUG - No availability
+2021-05-23 19:12:57,513 - toto - DEBUG - No availability
+2021-05-23 19:13:02,800 - toto - DEBUG - No availability
+2021-05-23 19:13:07,933 - toto - DEBUG - No availability
+2021-05-23 19:13:13,065 - toto - DEBUG - No availability
+2021-05-23 19:13:18,203 - toto - DEBUG - No availability
+2021-05-23 19:13:23,374 - toto - DEBUG - No availability
+2021-05-23 19:13:28,572 - toto - DEBUG - No availability
+2021-05-23 19:13:33,710 - toto - DEBUG - No availability
+2021-05-23 19:13:38,934 - toto - DEBUG - No availability
+2021-05-23 19:13:44,080 - toto - DEBUG - No availability
+2021-05-23 19:13:49,231 - toto - DEBUG - No availability
+2021-05-23 19:13:54,373 - toto - DEBUG - No availability
+2021-05-23 19:13:59,553 - toto - DEBUG - No availability
+2021-05-23 19:14:04,717 - toto - DEBUG - No availability
+2021-05-23 19:14:09,874 - toto - DEBUG - No availability
+2021-05-23 19:14:15,017 - toto - DEBUG - No availability
+2021-05-23 19:14:20,168 - toto - DEBUG - No availability
+2021-05-23 19:14:25,316 - toto - DEBUG - No availability
+2021-05-23 19:14:30,464 - toto - DEBUG - No availability
+2021-05-23 19:14:35,603 - toto - DEBUG - No availability
+2021-05-23 19:14:40,785 - toto - DEBUG - No availability
+2021-05-23 19:14:45,932 - toto - DEBUG - No availability
+2021-05-23 19:14:51,142 - toto - DEBUG - No availability
+2021-05-23 19:14:56,423 - toto - DEBUG - No availability
+2021-05-23 19:15:01,583 - toto - DEBUG - No availability
+2021-05-23 19:15:06,744 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:11,896 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:17,049 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:22,219 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:27,368 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:32,534 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:37,732 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:42,902 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:48,067 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:53,223 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:15:58,761 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:16:03,941 - toto - DEBUG - {452010: '1 APOLLO RAHSHREE HOSPITALS'}
+2021-05-23 19:16:09,088 - toto - DEBUG - No availability
+2021-05-23 19:16:14,260 - toto - DEBUG - No availability
+2021-05-23 19:16:19,407 - toto - DEBUG - No availability
+2021-05-23 19:16:24,598 - toto - DEBUG - No availability
+2021-05-23 19:16:29,805 - toto - DEBUG - No availability
+2021-05-23 19:16:34,956 - toto - DEBUG - No availability
+2021-05-23 19:16:40,115 - toto - DEBUG - No availability
+2021-05-23 19:16:45,274 - toto - DEBUG - No availability
+2021-05-23 19:16:50,470 - toto - DEBUG - No availability
+2021-05-23 19:16:55,614 - toto - DEBUG - No availability
+2021-05-23 19:17:00,749 - toto - DEBUG - No availability
+2021-05-23 19:17:05,901 - toto - DEBUG - No availability
+2021-05-23 19:17:11,069 - toto - DEBUG - No availability
+2021-05-23 19:17:16,220 - toto - DEBUG - No availability
+2021-05-23 19:17:21,393 - toto - DEBUG - No availability
+2021-05-23 19:17:26,616 - toto - DEBUG - No availability
+2021-05-23 19:17:31,939 - toto - DEBUG - No availability
+2021-05-23 19:17:37,104 - toto - DEBUG - No availability
+2021-05-23 19:17:42,278 - toto - DEBUG - No availability
+2021-05-23 19:17:47,427 - toto - DEBUG - No availability
+2021-05-23 19:17:52,587 - toto - DEBUG - No availability
+2021-05-23 19:17:57,721 - toto - DEBUG - No availability
+2021-05-23 19:18:02,894 - toto - DEBUG - No availability
+2021-05-23 19:18:08,057 - toto - DEBUG - No availability
+2021-05-23 19:18:13,206 - toto - DEBUG - No availability
+2021-05-23 19:18:18,343 - toto - DEBUG - No availability
+2021-05-23 19:18:23,497 - toto - DEBUG - No availability
+2021-05-23 19:18:28,651 - toto - DEBUG - No availability
+2021-05-23 19:18:33,802 - toto - DEBUG - No availability
+2021-05-23 19:18:38,972 - toto - DEBUG - No availability
+2021-05-23 19:18:44,148 - toto - DEBUG - No availability
+2021-05-23 19:18:49,294 - toto - DEBUG - No availability
+2021-05-23 19:18:54,444 - toto - DEBUG - No availability
+2021-05-23 19:18:59,645 - toto - DEBUG - No availability
+2021-05-23 19:19:04,849 - toto - DEBUG - {452001: '1 DURGA BHAWAN'}
+2021-05-23 19:19:10,026 - toto - DEBUG - {452001: '1 DURGA BHAWAN'}
+2021-05-23 19:19:15,157 - toto - DEBUG - {452001: '1 DURGA BHAWAN'}
+2021-05-23 19:19:20,384 - toto - DEBUG - {452001: '1 DURGA BHAWAN'}
